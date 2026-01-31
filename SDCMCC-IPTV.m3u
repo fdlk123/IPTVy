@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="【内容由tools.iptv-search.com智能转换】" tvg-logo="",www.iptv-search.com
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zhijd
 #EXTINF:-1 group-title="" tvg-logo="",→  济宁地区频道  →  分组
 undefined
 #EXTINF:-1 group-title="" tvg-logo="",山东齐鲁  
