@@ -1,0 +1,1231 @@
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="常看",CCTV1综合
+http://192.168.2.88:8888/udp/239.253.244.77:8000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="常看",CCTV1综合
+http://192.168.3.55:3566/608807420
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="常看",CCTV1综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="常看",CCTV2财经
+http://192.168.2.88:8888/udp/239.253.244.234:8000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="常看",CCTV2财经
+http://192.168.3.55:3566/631780532
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="常看",CCTV2财经
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="常看",CCTV3综艺
+http://192.168.2.88:8888/udp/239.253.244.191:8000
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="常看",CCTV3综艺
+http://192.168.3.55:3566/624878271
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="常看",CCTV3综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="常看",CCTV6电影
+http://192.168.2.88:8888/udp/239.253.244.193:8000
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="常看",CCTV6电影
+http://192.168.3.55:3566/624878396
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="常看",CCTV6电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="常看",CCTV8电视剧
+http://192.168.2.88:8888/udp/239.253.244.194:8000
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="常看",CCTV8电视剧
+http://192.168.3.55:3566/624878356
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="常看",CCTV8电视剧
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="常看",CCTV12社会与法
+http://192.168.2.88:8888/udp/239.253.244.237:8000
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="常看",CCTV12社会与法
+http://192.168.3.55:3566/673168185
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="常看",CCTV12社会与法
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="常看",CCTV13新闻
+http://192.168.2.88:8888/udp/239.253.244.14:8000
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="常看",CCTV13新闻
+http://192.168.3.55:3566/608807423
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="常看",CCTV13新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 tvg-name="济宁综合" tvg-logo="https://logo.catvod.com/济宁综合.png" group-title="常看",济宁综合
+http://192.168.2.88:8888/udp/239.253.244.254:8000
+#EXTINF:-1 tvg-name="济宁综合" tvg-logo="https://logo.catvod.com/济宁综合.png" group-title="常看",济宁综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="常看",山东卫视
+http://192.168.2.88:8888/udp/239.253.244.78:8000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="常看",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="常看",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="常看",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001099/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="常看",湖南卫视
+http://192.168.2.88:8888/udp/239.253.244.82:8000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="常看",湖南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="常看",湖南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000017/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="常看",浙江卫视
+http://192.168.2.88:8888/udp/239.253.244.84:8000
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="常看",浙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="常看",浙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000016/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="常看",东方卫视
+http://192.168.2.88:8888/udp/239.253.244.86:8000
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="常看",东方卫视
+http://192.168.3.55:3566/651632648
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="常看",东方卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="常看",东方卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000022/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="常看",江苏卫视
+http://192.168.2.88:8888/udp/239.253.244.83:8000
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="常看",江苏卫视
+http://192.168.3.55:3566/623899368
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="常看",江苏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="常看",江苏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000018/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="常看",北京卫视
+http://192.168.2.88:8888/udp/239.253.244.85:8000
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="常看",北京卫视
+http://192.168.3.55:3566/630287636
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="常看",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="常看",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000019/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="4K",CCTV4K超高清
+http://192.168.2.88:8888/udp/239.253.244.122:8000
+#EXTINF:-1 tvg-name="山东卫视4K超高清" tvg-logo="https://logo.catvod.com/山东卫视4K超高清.png" group-title="4K",山东卫视4K超高清
+http://192.168.2.88:8888/udp/239.253.244.172:8000
+#EXTINF:-1 tvg-name="北京卫视4K超高清" tvg-logo="https://logo.catvod.com/北京卫视4K超高清.png" group-title="4K",北京卫视4K超高清
+http://192.168.2.88:8888/udp/239.253.244.200:8000
+#EXTINF:-1 tvg-name="东方卫视4K超高清" tvg-logo="https://logo.catvod.com/东方卫视4K超高清.png" group-title="4K",东方卫视4K超高清
+http://192.168.2.88:8888/udp/239.253.244.176:8000
+#EXTINF:-1 tvg-name="深圳卫视4K超高清" tvg-logo="https://logo.catvod.com/深圳卫视4K超高清.png" group-title="4K",深圳卫视4K超高清
+http://192.168.2.88:8888/udp/239.253.244.61:8000
+#EXTINF:-1 tvg-name="广东卫视4K超高清" tvg-logo="https://logo.catvod.com/广东卫视4K超高清.png" group-title="4K",广东卫视4K超高清
+http://192.168.2.88:8888/udp/239.253.244.108:8000
+#EXTINF:-1 tvg-name="湖南卫视4K超高清" tvg-logo="https://logo.catvod.com/湖南卫视4K超高清.png" group-title="4K",湖南卫视4K超高清
+http://192.168.2.88:8888/udp/239.253.244.28:8000
+#EXTINF:-1 tvg-name="浙江卫视4K超高清" tvg-logo="https://logo.catvod.com/浙江卫视4K超高清.png" group-title="4K",浙江卫视4K超高清
+http://192.168.2.88:8888/udp/239.253.244.27:8000
+#EXTINF:-1 tvg-name="江苏卫视4K超高清" tvg-logo="https://logo.catvod.com/江苏卫视4K超高清.png" group-title="4K",江苏卫视4K超高清
+http://192.168.2.88:8888/udp/239.253.244.133:8000
+#EXTINF:-1 tvg-name="四川卫视4K超高清" tvg-logo="https://logo.catvod.com/四川卫视4K超高清.png" group-title="4K",四川卫视4K超高清
+http://192.168.2.88:8888/udp/239.253.244.123:8000
+#EXTINF:-1 tvg-name="爱上4K测试体验" tvg-logo="https://logo.catvod.com/爱上4K测试体验.png" group-title="4K",爱上4K测试体验
+http://192.168.2.88:8888/udp/239.253.244.102:8000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1综合
+http://192.168.2.88:8888/udp/239.253.244.77:8000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1综合
+http://192.168.3.55:3566/608807420
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2财经
+http://192.168.2.88:8888/udp/239.253.244.234:8000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2财经
+http://192.168.3.55:3566/631780532
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2财经
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV3综艺
+http://192.168.2.88:8888/udp/239.253.244.191:8000
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV3综艺
+http://192.168.3.55:3566/624878271
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV3综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4中文国际
+http://192.168.2.88:8888/udp/239.253.244.111:8000
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4中文国际
+http://192.168.3.55:3566/631780421
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4中文国际
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4中文国际欧洲
+http://192.168.2.88:8888/udp/239.253.244.186:8000
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4中文国际欧洲
+http://192.168.3.55:3566/608807419
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4中文国际欧洲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4中文国际美洲
+http://192.168.2.88:8888/udp/239.253.244.187:8000
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4中文国际美洲
+http://192.168.3.55:3566/608807416
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4中文国际美洲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5体育
+http://192.168.2.88:8888/udp/239.253.244.192:8000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5体育
+http://192.168.3.55:3566/641886683
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5+体育赛事
+http://192.168.3.55:3566/641886773
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6电影
+http://192.168.2.88:8888/udp/239.253.244.193:8000
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6电影
+http://192.168.3.55:3566/624878396
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7高清
+http://192.168.2.88:8888/udp/239.253.244.235:8000
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7国防军事
+http://192.168.3.55:3566/673168121
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8电视剧
+http://192.168.2.88:8888/udp/239.253.244.194:8000
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8电视剧
+http://192.168.3.55:3566/624878356
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8电视剧
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV9纪录
+http://192.168.2.88:8888/udp/239.253.244.79:8000
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV9纪录
+http://192.168.3.55:3566/673168140
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV9纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10科教
+http://192.168.2.88:8888/udp/239.253.244.236:8000
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10科教
+http://192.168.3.55:3566/624878405
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10科教
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11戏曲
+http://192.168.2.88:8888/udp/239.253.244.12:8000
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11戏曲
+http://192.168.3.55:3566/667987558
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11戏曲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12社会与法
+http://192.168.2.88:8888/udp/239.253.244.237:8000
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12社会与法
+http://192.168.3.55:3566/673168185
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12社会与法
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV13新闻
+http://192.168.2.88:8888/udp/239.253.244.14:8000
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV13新闻
+http://192.168.3.55:3566/608807423
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV13新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV14少儿
+http://192.168.2.88:8888/udp/239.253.244.238:8000
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV14少儿
+http://192.168.3.55:3566/624878440
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV14少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV15音乐
+http://192.168.2.88:8888/udp/239.253.244.16:8000
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV15音乐
+http://192.168.3.55:3566/673168223
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV15音乐
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17农业农村
+http://192.168.2.88:8888/udp/239.253.244.168:8000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17农业农村
+http://192.168.3.55:3566/673168256
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17农业农村
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://logo.catvod.com/中国天气.png" group-title="央视",中国天气
+http://192.168.3.55:3566/959986621
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东",山东卫视
+http://192.168.2.88:8888/udp/239.253.244.78:8000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001099/index.m3u8
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://logo.catvod.com/山东齐鲁.png" group-title="山东",山东齐鲁
+http://192.168.2.88:8888/udp/239.253.244.18:8000
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://logo.catvod.com/山东齐鲁.png" group-title="山东",山东齐鲁
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://logo.catvod.com/山东齐鲁.png" group-title="山东",山东齐鲁
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://logo.catvod.com/山东文旅.png" group-title="山东",山东文旅
+http://192.168.2.88:8888/udp/239.253.244.19:8000
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://logo.catvod.com/山东文旅.png" group-title="山东",山东文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000056/index.m3u8
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://logo.catvod.com/山东文旅.png" group-title="山东",山东文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://logo.catvod.com/山东生活.png" group-title="山东",山东生活
+http://192.168.2.88:8888/udp/239.253.244.20:8000
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://logo.catvod.com/山东生活.png" group-title="山东",山东生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000055/index.m3u8
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://logo.catvod.com/山东生活.png" group-title="山东",山东生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://logo.catvod.com/山东综艺.png" group-title="山东",山东综艺
+http://192.168.2.88:8888/udp/239.253.244.21:8000
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://logo.catvod.com/山东综艺.png" group-title="山东",山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000054/index.m3u8
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://logo.catvod.com/山东综艺.png" group-title="山东",山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://logo.catvod.com/山东体育.png" group-title="山东",山东体育
+http://192.168.2.88:8888/udp/239.253.244.22:8000
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://logo.catvod.com/山东体育.png" group-title="山东",山东体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000057/index.m3u8
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://logo.catvod.com/山东体育.png" group-title="山东",山东体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://logo.catvod.com/山东新闻.png" group-title="山东",山东新闻
+http://192.168.2.88:8888/udp/239.253.244.23:8000
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://logo.catvod.com/山东新闻.png" group-title="山东",山东新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://logo.catvod.com/山东新闻.png" group-title="山东",山东新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://logo.catvod.com/山东农科.png" group-title="山东",山东农科
+http://192.168.2.88:8888/udp/239.253.244.24:8000
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://logo.catvod.com/山东农科.png" group-title="山东",山东农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000058/index.m3u8
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://logo.catvod.com/山东农科.png" group-title="山东",山东农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://logo.catvod.com/山东少儿.png" group-title="山东",山东少儿
+http://192.168.2.88:8888/udp/239.253.244.25:8000
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://logo.catvod.com/山东少儿.png" group-title="山东",山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000059/index.m3u8
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://logo.catvod.com/山东少儿.png" group-title="山东",山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 tvg-name="山东教育卫视高清" tvg-logo="https://logo.catvod.com/山东教育卫视高清.png" group-title="山东",山东教育卫视高清
+http://192.168.2.88:8888/udp/239.253.244.59:8000
+#EXTINF:-1 tvg-name="山东教育卫视高清" tvg-logo="https://logo.catvod.com/山东教育卫视高清.png" group-title="山东",山东教育卫视高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-name="济宁综合" tvg-logo="https://logo.catvod.com/济宁综合.png" group-title="济宁",济宁综合
+http://192.168.2.88:8888/udp/239.253.244.254:8000
+#EXTINF:-1 tvg-name="济宁生活" tvg-logo="https://logo.catvod.com/济宁生活.png" group-title="济宁",济宁生活
+http://192.168.2.88:8888/udp/239.253.244.253:8000
+#EXTINF:-1 tvg-name="济宁公共" tvg-logo="https://logo.catvod.com/济宁公共.png" group-title="济宁",济宁公共
+http://192.168.2.88:8888/udp/239.253.244.248:8000
+#EXTINF:-1 tvg-name="济宁公共" tvg-logo="https://logo.catvod.com/济宁公共.png" group-title="济宁",济宁公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000241/index.m3u8
+#EXTINF:-1 tvg-name="济宁教育" tvg-logo="https://logo.catvod.com/济宁教育.png" group-title="济宁",济宁教育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8
+#EXTINF:-1 tvg-name="济宁高新" tvg-logo="https://logo.catvod.com/济宁高新.png" group-title="济宁",济宁高新
+http://192.168.2.88:8888/udp/239.253.244.244:8000
+#EXTINF:-1 tvg-name="任城1" tvg-logo="https://logo.catvod.com/任城1.png" group-title="济宁",任城1
+http://192.168.2.88:8888/udp/239.253.244.242:8000
+#EXTINF:-1 tvg-name="任城2" tvg-logo="https://logo.catvod.com/任城2.png" group-title="济宁",任城2
+http://192.168.2.88:8888/udp/239.253.244.243:8000
+#EXTINF:-1 tvg-name="兖州新闻高清" tvg-logo="https://logo.catvod.com/兖州新闻高清.png" group-title="济宁",兖州新闻高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1 tvg-name="梁山新闻综合高清" tvg-logo="https://logo.catvod.com/梁山新闻综合高清.png" group-title="济宁",梁山新闻综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001075/index.m3u8
+#EXTINF:-1 tvg-name="曲阜新闻综合 7M1080" tvg-logo="https://logo.catvod.com/曲阜新闻综合 7M1080.png" group-title="济宁",曲阜新闻综合 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001052/index.m3u8
+#EXTINF:-1 tvg-name="邹城新闻综合高清" tvg-logo="https://logo.catvod.com/邹城新闻综合高清.png" group-title="济宁",邹城新闻综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001038/index.m3u8
+#EXTINF:-1 tvg-name="嘉祥新闻综合 5M1080" tvg-logo="https://logo.catvod.com/嘉祥新闻综合 5M1080.png" group-title="济宁",嘉祥新闻综合 5M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8
+#EXTINF:-1 tvg-name="泗水新闻综合" tvg-logo="https://logo.catvod.com/泗水新闻综合.png" group-title="济宁",泗水新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001081/index.m3u8
+#EXTINF:-1 tvg-name="微山高清" tvg-logo="https://logo.catvod.com/微山高清.png" group-title="济宁",微山高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001078/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="卫视",湖南卫视
+http://192.168.2.88:8888/udp/239.253.244.82:8000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="卫视",湖南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="卫视",湖南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000017/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="卫视",浙江卫视
+http://192.168.2.88:8888/udp/239.253.244.84:8000
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="卫视",浙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="卫视",浙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000016/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视",东方卫视
+http://192.168.2.88:8888/udp/239.253.244.86:8000
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视",东方卫视
+http://192.168.3.55:3566/651632648
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视",东方卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视",东方卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000022/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视",江苏卫视
+http://192.168.2.88:8888/udp/239.253.244.83:8000
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视",江苏卫视
+http://192.168.3.55:3566/623899368
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视",江苏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视",江苏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000018/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视",北京卫视
+http://192.168.2.88:8888/udp/239.253.244.85:8000
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视",北京卫视
+http://192.168.3.55:3566/630287636
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000019/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="卫视",安徽卫视
+http://192.168.2.88:8888/udp/239.253.244.87:8000
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="卫视",安徽卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="卫视",安徽卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000020/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="卫视",天津卫视
+http://192.168.2.88:8888/udp/239.253.244.89:8000
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="卫视",天津卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="卫视",天津卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000021/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://192.168.2.88:8888/udp/239.253.244.92:8000
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://192.168.3.55:3566/630291707
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="卫视",深圳卫视
+http://192.168.2.88:8888/udp/239.253.244.91:8000
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="卫视",深圳卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="卫视",深圳卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000024/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="卫视",东南卫视
+http://192.168.2.88:8888/udp/239.253.244.105:8000
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="卫视",东南卫视
+http://192.168.3.55:3566/849116810
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="卫视",东南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="卫视",东南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000028/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="卫视",湖北卫视
+http://192.168.2.88:8888/udp/239.253.244.88:8000
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="卫视",湖北卫视
+http://192.168.3.55:3566/947472496
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="卫视",湖北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="卫视",广东卫视
+http://192.168.2.88:8888/udp/239.253.244.90:8000
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="卫视",广东卫视
+http://192.168.3.55:3566/608831231
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="卫视",广东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="卫视",广东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000025/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://192.168.2.88:8888/udp/239.253.244.93:8000
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000027/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="卫视",贵州卫视
+http://192.168.2.88:8888/udp/239.253.244.113:8000
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="卫视",贵州卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="卫视",贵州卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000041/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="卫视",河北卫视
+http://192.168.2.88:8888/udp/239.253.244.112:8000
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="卫视",河北卫视
+http://192.168.3.55:3566/962042070
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="卫视",河北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="卫视",重庆卫视
+http://192.168.2.88:8888/udp/239.253.244.38:8000
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="卫视",重庆卫视
+http://192.168.3.55:3566/738910914
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="卫视",重庆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="卫视",重庆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000023/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="卫视",海南卫视
+http://192.168.2.88:8888/udp/239.253.244.35:8000
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="卫视",海南卫视
+http://192.168.3.55:3566/947472502
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="卫视",海南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="卫视",海南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000030/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="卫视",四川卫视
+http://192.168.2.88:8888/udp/239.253.244.50:8000
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="卫视",四川卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="卫视",四川卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000033/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/山西卫视.png" group-title="卫视",山西卫视
+http://192.168.2.88:8888/udp/239.253.244.48:8000
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/山西卫视.png" group-title="卫视",山西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="卫视",江西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000035/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="卫视",河南卫视
+http://192.168.2.88:8888/udp/239.253.244.44:8000
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="卫视",河南卫视
+http://192.168.3.55:3566/790187291
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="卫视",河南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="卫视",河南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000037/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="卫视",江西卫视
+http://192.168.2.88:8888/udp/239.253.244.47:8000
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="卫视",江西卫视
+http://192.168.3.55:3566/783847495
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="卫视",江西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="卫视",广西卫视
+http://192.168.2.88:8888/udp/239.253.244.40:8000
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="卫视",广西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000038/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="卫视",吉林卫视
+http://192.168.2.88:8888/udp/239.253.244.46:8000
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="卫视",吉林卫视
+http://192.168.3.55:3566/947472500
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="卫视",吉林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="卫视",吉林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000036/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="卫视",云南卫视
+http://192.168.2.88:8888/udp/239.253.244.42:8000
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="卫视",云南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000039/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="卫视",陕西卫视
+http://192.168.2.88:8888/udp/239.253.244.49:8000
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="卫视",陕西卫视
+http://192.168.3.55:3566/738910838
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="卫视",陕西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://192.168.2.88:8888/udp/239.253.244.58:8000
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://192.168.2.88:8888/udp/239.253.244.53:8000
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://192.168.3.55:3566/738910535
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000043/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="卫视",新疆卫视
+http://192.168.2.88:8888/udp/239.253.244.60:8000
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="卫视",新疆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000044/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://192.168.2.88:8888/udp/239.253.244.74:8000
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000046/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="卫视",青海卫视
+http://192.168.2.88:8888/udp/239.253.244.54:8000
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="卫视",青海卫视
+http://192.168.3.55:3566/947472506
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="卫视",青海卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000042/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/西藏卫视.png" group-title="卫视",西藏卫视
+http://192.168.2.88:8888/udp/239.253.244.56:8000
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/西藏卫视.png" group-title="卫视",西藏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="卫视",兵团卫视
+http://192.168.2.88:8888/udp/239.253.244.57:8000
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="卫视",兵团卫视
+http://192.168.3.55:3566/956923145
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="卫视",兵团卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://logo.catvod.com/农林卫视.png" group-title="卫视",农林卫视
+http://192.168.2.88:8888/udp/239.253.244.70:8000
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://logo.catvod.com/农林卫视.png" group-title="卫视",农林卫视
+http://192.168.3.55:3566/956904896
+#EXTINF:-1 tvg-name="农林卫视 4M" tvg-logo="https://logo.catvod.com/农林卫视 4M.png" group-title="卫视",农林卫视 4M
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://logo.catvod.com/厦门卫视.png" group-title="卫视",厦门卫视
+http://192.168.2.88:8888/udp/239.253.244.106:8000
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://logo.catvod.com/厦门卫视.png" group-title="卫视",厦门卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://logo.catvod.com/延边卫视.png" group-title="卫视",延边卫视
+http://192.168.2.88:8888/udp/239.253.244.121:8000
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://192.168.3.55:3566/608917627
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://logo.catvod.com/海峡卫视.png" group-title="卫视",海峡卫视
+http://192.168.3.55:3566/849119120
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/三沙卫视.png" group-title="卫视",三沙卫视
+http://192.168.3.55:3566/961023778
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/三沙卫视.png" group-title="卫视",三沙卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="影视",CHC家庭影院
+http://192.168.2.88:8888/udp/239.253.244.152:8000
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="影视",CHC家庭影院
+http://192.168.3.55:3566/644368373
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="影视",CHC家庭影院
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://logo.catvod.com/CHC高清电影.png" group-title="影视",CHC高清电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="影视",CHC动作电影
+http://192.168.2.88:8888/udp/239.253.244.153:8000
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="影视",CHC动作电影
+http://192.168.3.55:3566/644368714
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="影视",CHC动作电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="影视",CHC影迷电影
+http://192.168.2.88:8888/udp/239.253.244.154:8000
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="影视",CHC影迷电影
+http://192.168.3.55:3566/952383261
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://logo.catvod.com/谍战剧场.png" group-title="影视",谍战剧场
+http://192.168.2.88:8888/udp/239.253.244.135:8000
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="影视",都市剧场
+http://192.168.2.88:8888/udp/239.253.244.178:8000
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="影视",都市剧场
+http://192.168.2.88:8888/udp/239.253.244.98:8000
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="影视",都市剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:-1 tvg-name="经典剧场" tvg-logo="https://logo.catvod.com/经典剧场.png" group-title="影视",经典剧场
+http://192.168.2.88:8888/udp/239.253.244.211:8000
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://logo.catvod.com/经典电影.png" group-title="影视",经典电影
+http://192.168.2.88:8888/udp/239.253.244.126:8000
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://logo.catvod.com/武侠剧场.png" group-title="影视",武侠剧场
+http://192.168.2.88:8888/udp/239.253.244.212:8000
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://logo.catvod.com/家庭影院.png" group-title="影视",家庭影院
+http://192.168.2.88:8888/udp/239.253.244.218:8000
+#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://logo.catvod.com/喜剧影院.png" group-title="影视",喜剧影院
+http://192.168.2.88:8888/udp/239.253.244.220:8000
+#EXTINF:-1 tvg-name="动作影院" tvg-logo="https://logo.catvod.com/动作影院.png" group-title="影视",动作影院
+http://192.168.2.88:8888/udp/239.253.244.221:8000
+#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://logo.catvod.com/热播剧场.png" group-title="影视",热播剧场
+http://192.168.2.88:8888/udp/239.253.244.125:8000
+#EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://logo.catvod.com/经典香港电影.png" group-title="影视",经典香港电影
+http://192.168.3.55:3566/625703337
+#EXTINF:-1 tvg-name="抗战经典影片" tvg-logo="https://logo.catvod.com/抗战经典影片.png" group-title="影视",抗战经典影片
+http://192.168.3.55:3566/617432318
+#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://logo.catvod.com/新片放映厅.png" group-title="影视",新片放映厅
+http://192.168.3.55:3566/619495952
+#EXTINF:-1 tvg-name="爱电影" tvg-logo="https://logo.catvod.com/爱电影.png" group-title="影视",爱电影
+http://192.168.2.88:8888/udp/239.253.244.128:8000
+#EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://logo.catvod.com/爱大剧.png" group-title="影视",爱大剧
+http://192.168.2.88:8888/udp/239.253.244.132:8000
+#EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://logo.catvod.com/城市剧场.png" group-title="影视",城市剧场
+http://192.168.2.88:8888/udp/239.253.244.201:8000
+#EXTINF:-1 tvg-name="南方影视" tvg-logo="https://logo.catvod.com/南方影视.png" group-title="影视",南方影视
+http://192.168.3.55:3566/614961829
+#EXTINF:-1 tvg-name="精彩影视高清" tvg-logo="https://logo.catvod.com/精彩影视高清.png" group-title="影视",精彩影视高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://logo.catvod.com/SiTV都市剧场.png" group-title="影视",SiTV都市剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000630/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="少儿",CCTV14少儿
+http://192.168.2.88:8888/udp/239.253.244.238:8000
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="少儿",CCTV14少儿
+http://192.168.3.55:3566/624878440
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="少儿",CCTV14少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://logo.catvod.com/卡酷少儿.png" group-title="少儿",卡酷少儿
+http://192.168.2.88:8888/udp/239.253.244.61:8000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://logo.catvod.com/卡酷少儿.png" group-title="少儿",卡酷少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000048/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://logo.catvod.com/优漫卡通.png" group-title="少儿",优漫卡通
+http://192.168.2.88:8888/udp/239.253.244.64:8000
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://logo.catvod.com/哈哈炫动.png" group-title="少儿",哈哈炫动
+http://192.168.2.88:8888/udp/239.253.244.63:8000
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://logo.catvod.com/哈哈炫动.png" group-title="少儿",哈哈炫动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="少儿",嘉佳卡通
+http://192.168.2.88:8888/udp/239.253.244.65:8000
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="少儿",嘉佳卡通
+http://192.168.3.55:3566/614952364
+#EXTINF:-1 tvg-name="动漫秀场高清" tvg-logo="https://logo.catvod.com/动漫秀场高清.png" group-title="少儿",动漫秀场高清
+http://192.168.2.88:8888/udp/239.253.244.115:8000
+#EXTINF:-1 tvg-name="动漫秀场高清" tvg-logo="https://logo.catvod.com/动漫秀场高清.png" group-title="少儿",动漫秀场高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://logo.catvod.com/广东嘉佳卡通.png" group-title="少儿",广东嘉佳卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://logo.catvod.com/江苏优漫卡通.png" group-title="少儿",江苏优漫卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="少儿",金鹰卡通
+http://192.168.2.88:8888/udp/239.253.244.62:8000
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="少儿",金鹰卡通
+http://192.168.2.88:8888/udp/239.253.244.134:8000
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="少儿",金鹰卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://logo.catvod.com/新动漫.png" group-title="少儿",新动漫
+http://192.168.2.88:8888/udp/239.253.244.157:8000
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://logo.catvod.com/新动漫.png" group-title="少儿",新动漫
+http://192.168.3.55:3566/961930269
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://logo.catvod.com/新动漫.png" group-title="少儿",新动漫
+http://192.168.2.88:8888/udp/239.253.244.149:8000
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="https://logo.catvod.com/经典动画大集合.png" group-title="少儿",经典动画大集合
+http://192.168.3.55:3566/629942219
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://logo.catvod.com/CETV1.png" group-title="教育",CETV1
+http://192.168.2.88:8888/udp/239.253.244.110:8000
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://logo.catvod.com/CETV1.png" group-title="教育",CETV1
+http://192.168.3.55:3566/923287154
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://logo.catvod.com/CETV1.png" group-title="教育",CETV1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://logo.catvod.com/CETV2.png" group-title="教育",CETV2
+http://192.168.2.88:8888/udp/239.253.244.107:8000
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://logo.catvod.com/CETV2.png" group-title="教育",CETV2
+http://192.168.3.55:3566/923287211
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://logo.catvod.com/CETV2.png" group-title="教育",CETV2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://logo.catvod.com/CETV4.png" group-title="教育",CETV4
+http://192.168.2.88:8888/udp/239.253.244.108:8000
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://logo.catvod.com/CETV4.png" group-title="教育",CETV4
+http://192.168.3.55:3566/923287339
+#EXTINF:-1 tvg-name="CETV" tvg-logo="https://logo.catvod.com/CETV.png" group-title="教育",CETV
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://logo.catvod.com/中学生.png" group-title="教育",中学生
+http://192.168.2.88:8888/udp/239.253.244.163:8000
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://logo.catvod.com/中学生.png" group-title="教育",中学生
+http://192.168.3.55:3566/708869532
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://logo.catvod.com/山东教育.png" group-title="教育",山东教育
+http://192.168.3.55:3566/609154353
+#EXTINF:-1 tvg-name="金色学堂高清" tvg-logo="https://logo.catvod.com/金色学堂高清.png" group-title="教育",金色学堂高清
+http://192.168.2.88:8888/udp/239.253.244.101:8000
+#EXTINF:-1 tvg-name="好学生" tvg-logo="https://logo.catvod.com/好学生.png" group-title="教育",好学生
+http://192.168.2.88:8888/udp/239.253.244.219:8000
+#EXTINF:-1 tvg-name="爱体育高清" tvg-logo="https://logo.catvod.com/爱体育高清.png" group-title="体育",爱体育高清
+http://192.168.2.88:8888/udp/239.253.244.109:8000
+#EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://logo.catvod.com/赛事最经典.png" group-title="体育",赛事最经典
+http://192.168.3.55:3566/646596895
+#EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://logo.catvod.com/体坛名栏汇.png" group-title="体育",体坛名栏汇
+http://192.168.3.55:3566/629943305
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://logo.catvod.com/四海钓鱼.png" group-title="体育",四海钓鱼
+http://192.168.3.55:3566/637444975
+#EXTINF:-1 tvg-name="陕西体育休闲频道" tvg-logo="https://logo.catvod.com/陕西体育休闲频道.png" group-title="体育",陕西体育休闲频道
+http://192.168.3.55:3566/956909356
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://logo.catvod.com/武术世界.png" group-title="体育",武术世界
+http://192.168.3.55:3566/958475359
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://logo.catvod.com/快乐垂钓.png" group-title="体育",快乐垂钓
+http://192.168.3.55:3566/961930263
+#EXTINF:-1 tvg-name="辽宁广播电视台体育休闲频道" tvg-logo="https://logo.catvod.com/辽宁广播电视台体育休闲频道.png" group-title="体育",辽宁广播电视台体育休闲频道
+http://192.168.3.55:3566/962067526
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://logo.catvod.com/先锋乒羽.png" group-title="体育",先锋乒羽
+http://192.168.2.88:8888/udp/239.253.244.155:8000
+#EXTINF:-1 tvg-name="魅力足球高清" tvg-logo="https://logo.catvod.com/魅力足球高清.png" group-title="体育",魅力足球高清
+http://192.168.2.88:8888/udp/239.253.244.100:8000
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="外语",CGTN
+http://192.168.3.55:3566/609017205
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="外语",CGTN
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 tvg-name="CGTN 英语" tvg-logo="https://logo.catvod.com/CGTN 英语.png" group-title="外语",CGTN 英语
+http://192.168.2.88:8888/udp/239.253.244.17:8000
+#EXTINF:-1 tvg-name="CGTN 英文纪录" tvg-logo="https://logo.catvod.com/CGTN 英文纪录.png" group-title="外语",CGTN 英文纪录
+http://192.168.2.88:8888/udp/239.253.244.188:8000
+#EXTINF:-1 tvg-name="CGTN 外语纪录" tvg-logo="https://logo.catvod.com/CGTN 外语纪录.png" group-title="外语",CGTN 外语纪录
+http://192.168.3.55:3566/609006487
+#EXTINF:-1 tvg-name="CGTN 纪录高清" tvg-logo="https://logo.catvod.com/CGTN 纪录高清.png" group-title="外语",CGTN 纪录高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
+#EXTINF:-1 tvg-name="CGTN高清系列" tvg-logo="https://logo.catvod.com/CGTN高清系列.png" group-title="外语",CGTN高清系列
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
+#EXTINF:-1 tvg-name="CGTN 西班牙语" tvg-logo="https://logo.catvod.com/CGTN 西班牙语.png" group-title="外语",CGTN 西班牙语
+http://192.168.2.88:8888/udp/239.253.244.182:8000
+#EXTINF:-1 tvg-name="CGTN 西班牙语" tvg-logo="https://logo.catvod.com/CGTN 西班牙语.png" group-title="外语",CGTN 西班牙语
+http://192.168.3.55:3566/609006450
+#EXTINF:-1 tvg-name="CGTN 西班牙语" tvg-logo="https://logo.catvod.com/CGTN 西班牙语.png" group-title="外语",CGTN 西班牙语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
+#EXTINF:-1 tvg-name="CGTN 法语" tvg-logo="https://logo.catvod.com/CGTN 法语.png" group-title="外语",CGTN 法语
+http://192.168.2.88:8888/udp/239.253.244.183:8000
+#EXTINF:-1 tvg-name="CGTN 法语" tvg-logo="https://logo.catvod.com/CGTN 法语.png" group-title="外语",CGTN 法语
+http://192.168.3.55:3566/609006476
+#EXTINF:-1 tvg-name="CGTN 法语" tvg-logo="https://logo.catvod.com/CGTN 法语.png" group-title="外语",CGTN 法语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
+#EXTINF:-1 tvg-name="CGTN 阿拉伯语" tvg-logo="https://logo.catvod.com/CGTN 阿拉伯语.png" group-title="外语",CGTN 阿拉伯语
+http://192.168.2.88:8888/udp/239.253.244.184:8000
+#EXTINF:-1 tvg-name="CGTN 阿拉伯语" tvg-logo="https://logo.catvod.com/CGTN 阿拉伯语.png" group-title="外语",CGTN 阿拉伯语
+http://192.168.3.55:3566/609154345
+#EXTINF:-1 tvg-name="CGTN 阿拉伯语" tvg-logo="https://logo.catvod.com/CGTN 阿拉伯语.png" group-title="外语",CGTN 阿拉伯语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
+#EXTINF:-1 tvg-name="CGTN 俄语" tvg-logo="https://logo.catvod.com/CGTN 俄语.png" group-title="外语",CGTN 俄语
+http://192.168.2.88:8888/udp/239.253.244.185:8000
+#EXTINF:-1 tvg-name="CGTN 俄语" tvg-logo="https://logo.catvod.com/CGTN 俄语.png" group-title="外语",CGTN 俄语
+http://192.168.3.55:3566/609006446
+#EXTINF:-1 tvg-name="CGTN 俄语" tvg-logo="https://logo.catvod.com/CGTN 俄语.png" group-title="外语",CGTN 俄语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
+#EXTINF:-1 tvg-name="济南新闻综合 7M1080" tvg-logo="https://logo.catvod.com/济南新闻综合 7M1080.png" group-title="山东地方",济南新闻综合 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 tvg-name="济南教育高清" tvg-logo="https://logo.catvod.com/济南教育高清.png" group-title="山东地方",济南教育高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1 tvg-name="东平新闻 7M1080" tvg-logo="https://logo.catvod.com/东平新闻 7M1080.png" group-title="山东地方",东平新闻 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1 tvg-name="东阿1高清" tvg-logo="https://logo.catvod.com/东阿1高清.png" group-title="山东地方",东阿1高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
+#EXTINF:-1 tvg-name="临沂综合高清" tvg-logo="https://logo.catvod.com/临沂综合高清.png" group-title="山东地方",临沂综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
+#EXTINF:-1 tvg-name="临沭1高清" tvg-logo="https://logo.catvod.com/临沭1高清.png" group-title="山东地方",临沭1高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001094/index.m3u8
+#EXTINF:-1 tvg-name="兰陵综合 7M1080" tvg-logo="https://logo.catvod.com/兰陵综合 7M1080.png" group-title="山东地方",兰陵综合 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
+#EXTINF:-1 tvg-name="单县综合高清" tvg-logo="https://logo.catvod.com/单县综合高清.png" group-title="山东地方",单县综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8
+#EXTINF:-1 tvg-name="商河综合 7M1080" tvg-logo="https://logo.catvod.com/商河综合 7M1080.png" group-title="山东地方",商河综合 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
+#EXTINF:-1 tvg-name="夏津公共高清" tvg-logo="https://logo.catvod.com/夏津公共高清.png" group-title="山东地方",夏津公共高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001070/index.m3u8
+#EXTINF:-1 tvg-name="夏津综合高清" tvg-logo="https://logo.catvod.com/夏津综合高清.png" group-title="山东地方",夏津综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001069/index.m3u8
+#EXTINF:-1 tvg-name="宁津新闻综合 7M1080" tvg-logo="https://logo.catvod.com/宁津新闻综合 7M1080.png" group-title="山东地方",宁津新闻综合 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001003/index.m3u8
+#EXTINF:-1 tvg-name="宁阳1高清" tvg-logo="https://logo.catvod.com/宁阳1高清.png" group-title="山东地方",宁阳1高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001071/index.m3u8
+#EXTINF:-1 tvg-name="定陶1 7M1080" tvg-logo="https://logo.catvod.com/定陶1 7M1080.png" group-title="山东地方",定陶1 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8
+#EXTINF:-1 tvg-name="邹平新闻高清" tvg-logo="https://logo.catvod.com/邹平新闻高清.png" group-title="山东地方",邹平新闻高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
+#EXTINF:-1 tvg-name="巨野新闻 6M1080" tvg-logo="https://logo.catvod.com/巨野新闻 6M1080.png" group-title="山东地方",巨野新闻 6M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1 tvg-name="平原新闻高清" tvg-logo="https://logo.catvod.com/平原新闻高清.png" group-title="山东地方",平原新闻高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+#EXTINF:-1 tvg-name="广饶新闻综合高清" tvg-logo="https://logo.catvod.com/广饶新闻综合高清.png" group-title="山东地方",广饶新闻综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001043/index.m3u8
+#EXTINF:-1 tvg-name="德州公共高清" tvg-logo="https://logo.catvod.com/德州公共高清.png" group-title="山东地方",德州公共高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000207/index.m3u8
+#EXTINF:-1 tvg-name="德州新闻综合高清" tvg-logo="https://logo.catvod.com/德州新闻综合高清.png" group-title="山东地方",德州新闻综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1 tvg-name="新泰乡村 7M1080" tvg-logo="https://logo.catvod.com/新泰乡村 7M1080.png" group-title="山东地方",新泰乡村 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1 tvg-name="新泰新闻综合 7M1080" tvg-logo="https://logo.catvod.com/新泰新闻综合 7M1080.png" group-title="山东地方",新泰新闻综合 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
+#EXTINF:-1 tvg-name="无棣综合 7M1080" tvg-logo="https://logo.catvod.com/无棣综合 7M1080.png" group-title="山东地方",无棣综合 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001024/index.m3u8
+#EXTINF:-1 tvg-name="武城新闻综合高清" tvg-logo="https://logo.catvod.com/武城新闻综合高清.png" group-title="山东地方",武城新闻综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
+#EXTINF:-1 tvg-name="武城综艺影视高清" tvg-logo="https://logo.catvod.com/武城综艺影视高清.png" group-title="山东地方",武城综艺影视高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001060/index.m3u8
+#EXTINF:-1 tvg-name="沂水高清" tvg-logo="https://logo.catvod.com/沂水高清.png" group-title="山东地方",沂水高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001098/index.m3u8
+#EXTINF:-1 tvg-name="泰安公共 7M1080" tvg-logo="https://logo.catvod.com/泰安公共 7M1080.png" group-title="山东地方",泰安公共 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
+#EXTINF:-1 tvg-name="泰安综合 5M1080" tvg-logo="https://logo.catvod.com/泰安综合 5M1080.png" group-title="山东地方",泰安综合 5M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
+#EXTINF:-1 tvg-name="济阳综合 7M1080" tvg-logo="https://logo.catvod.com/济阳综合 7M1080.png" group-title="山东地方",济阳综合 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1 tvg-name="淄博公共高清" tvg-logo="https://logo.catvod.com/淄博公共高清.png" group-title="山东地方",淄博公共高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
+#EXTINF:-1 tvg-name="淄博新闻高清" tvg-logo="https://logo.catvod.com/淄博新闻高清.png" group-title="山东地方",淄博新闻高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1 tvg-name="禹城综合高清" tvg-logo="https://logo.catvod.com/禹城综合高清.png" group-title="山东地方",禹城综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001061/index.m3u8
+#EXTINF:-1 tvg-name="禹城综艺高清" tvg-logo="https://logo.catvod.com/禹城综艺高清.png" group-title="山东地方",禹城综艺高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1 tvg-name="章丘1高清" tvg-logo="https://logo.catvod.com/章丘1高清.png" group-title="山东地方",章丘1高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001073/index.m3u8
+#EXTINF:-1 tvg-name="肥城综合高清" tvg-logo="https://logo.catvod.com/肥城综合高清.png" group-title="山东地方",肥城综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8
+#EXTINF:-1 tvg-name="茌平综合高清" tvg-logo="https://logo.catvod.com/茌平综合高清.png" group-title="山东地方",茌平综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8
+#EXTINF:-1 tvg-name="郓城新闻高清" tvg-logo="https://logo.catvod.com/郓城新闻高清.png" group-title="山东地方",郓城新闻高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1 tvg-name="金乡新闻高清" tvg-logo="https://logo.catvod.com/金乡新闻高清.png" group-title="山东地方",金乡新闻高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001034/index.m3u8
+#EXTINF:-1 tvg-name="陵城新闻 7M1080" tvg-logo="https://logo.catvod.com/陵城新闻 7M1080.png" group-title="山东地方",陵城新闻 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001082/index.m3u8
+#EXTINF:-1 tvg-name="齐河新闻高清" tvg-logo="https://logo.catvod.com/齐河新闻高清.png" group-title="山东地方",齐河新闻高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1 tvg-name="沂南综合" tvg-logo="https://logo.catvod.com/沂南综合.png" group-title="山东地方",沂南综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001096/index.m3u8
+#EXTINF:-1 tvg-name="沂南温泉旅游" tvg-logo="https://logo.catvod.com/沂南温泉旅游.png" group-title="山东地方",沂南温泉旅游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001097/index.m3u8
+#EXTINF:-1 tvg-name="济南商务" tvg-logo="https://logo.catvod.com/济南商务.png" group-title="山东地方",济南商务
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000066/index.m3u8
+#EXTINF:-1 tvg-name="济南娱乐" tvg-logo="https://logo.catvod.com/济南娱乐.png" group-title="山东地方",济南娱乐
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
+#EXTINF:-1 tvg-name="济南少儿" tvg-logo="https://logo.catvod.com/济南少儿.png" group-title="山东地方",济南少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8
+#EXTINF:-1 tvg-name="济南影视" tvg-logo="https://logo.catvod.com/济南影视.png" group-title="山东地方",济南影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://logo.catvod.com/济南新闻综合.png" group-title="山东地方",济南新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000061/index.m3u8
+#EXTINF:-1 tvg-name="济南生活" tvg-logo="https://logo.catvod.com/济南生活.png" group-title="山东地方",济南生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1 tvg-name="济南科教" tvg-logo="https://logo.catvod.com/济南科教.png" group-title="山东地方",济南科教
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000245/index.m3u8
+#EXTINF:-1 tvg-name="济南都市" tvg-logo="https://logo.catvod.com/济南都市.png" group-title="山东地方",济南都市
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1 tvg-name="济南鲁中" tvg-logo="https://logo.catvod.com/济南鲁中.png" group-title="山东地方",济南鲁中
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1 tvg-name="东明新闻综合" tvg-logo="https://logo.catvod.com/东明新闻综合.png" group-title="山东地方",东明新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001065/index.m3u8
+#EXTINF:-1 tvg-name="东营公共" tvg-logo="https://logo.catvod.com/东营公共.png" group-title="山东地方",东营公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000227/index.m3u8
+#EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://logo.catvod.com/东营新闻综合.png" group-title="山东地方",东营新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://logo.catvod.com/临沂公共.png" group-title="山东地方",临沂公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8
+#EXTINF:-1 tvg-name="临沂农科" tvg-logo="https://logo.catvod.com/临沂农科.png" group-title="山东地方",临沂农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
+#EXTINF:-1 tvg-name="兰陵公共" tvg-logo="https://logo.catvod.com/兰陵公共.png" group-title="山东地方",兰陵公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001095/index.m3u8
+#EXTINF:-1 tvg-name="冠县综合" tvg-logo="https://logo.catvod.com/冠县综合.png" group-title="山东地方",冠县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
+#EXTINF:-1 tvg-name="宁阳2" tvg-logo="https://logo.catvod.com/宁阳2.png" group-title="山东地方",宁阳2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001072/index.m3u8
+#EXTINF:-1 tvg-name="平阴综合" tvg-logo="https://logo.catvod.com/平阴综合.png" group-title="山东地方",平阴综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1 tvg-name="新矿新闻综合" tvg-logo="https://logo.catvod.com/新矿新闻综合.png" group-title="山东地方",新矿新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000268/index.m3u8
+#EXTINF:-1 tvg-name="枣庄教育" tvg-logo="https://logo.catvod.com/枣庄教育.png" group-title="山东地方",枣庄教育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
+#EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://logo.catvod.com/枣庄新闻综合.png" group-title="山东地方",枣庄新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001025/index.m3u8
+#EXTINF:-1 tvg-name="桓台1" tvg-logo="https://logo.catvod.com/桓台1.png" group-title="山东地方",桓台1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001020/index.m3u8
+#EXTINF:-1 tvg-name="沂源新闻" tvg-logo="https://logo.catvod.com/沂源新闻.png" group-title="山东地方",沂源新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
+#EXTINF:-1 tvg-name="沾化综合" tvg-logo="https://logo.catvod.com/沾化综合.png" group-title="山东地方",沾化综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1 tvg-name="淄博生活" tvg-logo="https://logo.catvod.com/淄博生活.png" group-title="山东地方",淄博生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1 tvg-name="淄博科教" tvg-logo="https://logo.catvod.com/淄博科教.png" group-title="山东地方",淄博科教
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000295/index.m3u8
+#EXTINF:-1 tvg-name="淄博都市" tvg-logo="https://logo.catvod.com/淄博都市.png" group-title="山东地方",淄博都市
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000293/index.m3u8
+#EXTINF:-1 tvg-name="滕州综合" tvg-logo="https://logo.catvod.com/滕州综合.png" group-title="山东地方",滕州综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001028/index.m3u8
+#EXTINF:-1 tvg-name="滨州公共" tvg-logo="https://logo.catvod.com/滨州公共.png" group-title="山东地方",滨州公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000221/index.m3u8
+#EXTINF:-1 tvg-name="滨州新闻综合" tvg-logo="https://logo.catvod.com/滨州新闻综合.png" group-title="山东地方",滨州新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1 tvg-name="聊城公共" tvg-logo="https://logo.catvod.com/聊城公共.png" group-title="山东地方",聊城公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 tvg-name="聊城综合" tvg-logo="https://logo.catvod.com/聊城综合.png" group-title="山东地方",聊城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1 tvg-name="莒南综合" tvg-logo="https://logo.catvod.com/莒南综合.png" group-title="山东地方",莒南综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001011/index.m3u8
+#EXTINF:-1 tvg-name="菏泽新闻综合" tvg-logo="https://logo.catvod.com/菏泽新闻综合.png" group-title="山东地方",菏泽新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1 tvg-name="菏泽经济生活" tvg-logo="https://logo.catvod.com/菏泽经济生活.png" group-title="山东地方",菏泽经济生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000234/index.m3u8
+#EXTINF:-1 tvg-name="蒙阴1" tvg-logo="https://logo.catvod.com/蒙阴1.png" group-title="山东地方",蒙阴1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1 tvg-name="鄄城综合" tvg-logo="https://logo.catvod.com/鄄城综合.png" group-title="山东地方",鄄城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001084/index.m3u8
+#EXTINF:-1 tvg-name="长清新闻" tvg-logo="https://logo.catvod.com/长清新闻.png" group-title="山东地方",长清新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1 tvg-name="阳信新闻综合" tvg-logo="https://logo.catvod.com/阳信新闻综合.png" group-title="山东地方",阳信新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1 tvg-name="高青综合" tvg-logo="https://logo.catvod.com/高青综合.png" group-title="山东地方",高青综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8
+#EXTINF:-1 tvg-name="日照公共" tvg-logo="https://logo.catvod.com/日照公共.png" group-title="山东地方",日照公共
+https://live.rzw.com.cn/kzpd/playlist.m3u8?_upt=844de8ae1714195954
+#EXTINF:-1 tvg-name="山东居家购物" tvg-logo="https://logo.catvod.com/山东居家购物.png" group-title="山东地方",山东居家购物
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
+#EXTINF:-1 tvg-name="QTV-1" tvg-logo="https://logo.catvod.com/QTV-1.png" group-title="山东地方",QTV-1
+https://hlspull.qtv.com.cn/gwepn2sr/channel/969b06fca3f82c40de59171b3eb9428c/1.m3u8
+#EXTINF:-1 tvg-name="QTV-2" tvg-logo="https://logo.catvod.com/QTV-2.png" group-title="山东地方",QTV-2
+http://124.129.235.34:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="QTV-3" tvg-logo="https://logo.catvod.com/QTV-3.png" group-title="山东地方",QTV-3
+http://124.129.235.34:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-name="QTV-4" tvg-logo="https://logo.catvod.com/QTV-4.png" group-title="山东地方",QTV-4
+http://124.129.235.34:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-name="QTV-5" tvg-logo="https://logo.catvod.com/QTV-5.png" group-title="山东地方",QTV-5
+http://124.129.235.34:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-name="QTV-6" tvg-logo="https://logo.catvod.com/QTV-6.png" group-title="山东地方",QTV-6
+http://124.129.235.34:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://logo.catvod.com/上海新闻综合.png" group-title="地方",上海新闻综合
+http://192.168.3.55:3566/651632657
+#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="https://logo.catvod.com/上视东方影视.png" group-title="地方",上视东方影视
+http://192.168.3.55:3566/617290047
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://logo.catvod.com/上海第一财经.png" group-title="地方",上海第一财经
+http://192.168.3.55:3566/608780988
+#EXTINF:-1 tvg-name="南京新闻综合频道" tvg-logo="https://logo.catvod.com/南京新闻综合频道.png" group-title="地方",南京新闻综合频道
+http://192.168.3.55:3566/838109047
+#EXTINF:-1 tvg-name="南京教科频道" tvg-logo="https://logo.catvod.com/南京教科频道.png" group-title="地方",南京教科频道
+http://192.168.3.55:3566/838153729
+#EXTINF:-1 tvg-name="南京十八频道" tvg-logo="https://logo.catvod.com/南京十八频道.png" group-title="地方",南京十八频道
+http://192.168.3.55:3566/838151753
+#EXTINF:-1 tvg-name="体育休闲频道" tvg-logo="https://logo.catvod.com/体育休闲频道.png" group-title="地方",体育休闲频道
+http://192.168.3.55:3566/626064707
+#EXTINF:-1 tvg-name="江苏城市频道" tvg-logo="https://logo.catvod.com/江苏城市频道.png" group-title="地方",江苏城市频道
+http://192.168.3.55:3566/626064714
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://logo.catvod.com/江苏国际.png" group-title="地方",江苏国际
+http://192.168.3.55:3566/626064674
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://logo.catvod.com/江苏教育.png" group-title="地方",江苏教育
+http://192.168.3.55:3566/628008321
+#EXTINF:-1 tvg-name="江苏影视频道" tvg-logo="https://logo.catvod.com/江苏影视频道.png" group-title="地方",江苏影视频道
+http://192.168.3.55:3566/626064697
+#EXTINF:-1 tvg-name="江苏综艺频道" tvg-logo="https://logo.catvod.com/江苏综艺频道.png" group-title="地方",江苏综艺频道
+http://192.168.3.55:3566/626065193
+#EXTINF:-1 tvg-name="公共新闻频道" tvg-logo="https://logo.catvod.com/公共新闻频道.png" group-title="地方",公共新闻频道
+http://192.168.3.55:3566/626064693
+#EXTINF:-1 tvg-name="盐城新闻综合" tvg-logo="https://logo.catvod.com/盐城新闻综合.png" group-title="地方",盐城新闻综合
+http://192.168.3.55:3566/639731825
+#EXTINF:-1 tvg-name="淮安新闻综合" tvg-logo="https://logo.catvod.com/淮安新闻综合.png" group-title="地方",淮安新闻综合
+http://192.168.3.55:3566/639731826
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://logo.catvod.com/泰州新闻综合.png" group-title="地方",泰州新闻综合
+http://192.168.3.55:3566/639731818
+#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://logo.catvod.com/连云港新闻综合.png" group-title="地方",连云港新闻综合
+http://192.168.3.55:3566/639731715
+#EXTINF:-1 tvg-name="宿迁新闻综合" tvg-logo="https://logo.catvod.com/宿迁新闻综合.png" group-title="地方",宿迁新闻综合
+http://192.168.3.55:3566/639731832
+#EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://logo.catvod.com/徐州新闻综合.png" group-title="地方",徐州新闻综合
+http://192.168.3.55:3566/639731747
+#EXTINF:-1 tvg-name="优漫卡通频道" tvg-logo="https://logo.catvod.com/优漫卡通频道.png" group-title="地方",优漫卡通频道
+http://192.168.3.55:3566/626064703
+#EXTINF:-1 tvg-name="江阴新闻综合" tvg-logo="https://logo.catvod.com/江阴新闻综合.png" group-title="地方",江阴新闻综合
+http://192.168.3.55:3566/955227979
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://logo.catvod.com/南通新闻综合.png" group-title="地方",南通新闻综合
+http://192.168.3.55:3566/955227985
+#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://logo.catvod.com/宜兴新闻综合.png" group-title="地方",宜兴新闻综合
+http://192.168.3.55:3566/955227996
+#EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="https://logo.catvod.com/溧水新闻综合.png" group-title="地方",溧水新闻综合
+http://192.168.3.55:3566/639737327
+#EXTINF:-1 tvg-name="陕西银龄频道" tvg-logo="https://logo.catvod.com/陕西银龄频道.png" group-title="地方",陕西银龄频道
+http://192.168.3.55:3566/956909362
+#EXTINF:-1 tvg-name="陕西都市青春频道" tvg-logo="https://logo.catvod.com/陕西都市青春频道.png" group-title="地方",陕西都市青春频道
+http://192.168.3.55:3566/956909358
+#EXTINF:-1 tvg-name="陕西秦腔频道" tvg-logo="https://logo.catvod.com/陕西秦腔频道.png" group-title="地方",陕西秦腔频道
+http://192.168.3.55:3566/956909303
+#EXTINF:-1 tvg-name="陕西新闻资讯频道" tvg-logo="https://logo.catvod.com/陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
+http://192.168.3.55:3566/956909289
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://logo.catvod.com/财富天下.png" group-title="地方",财富天下
+http://192.168.3.55:3566/956923159
+#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://logo.catvod.com/镇江新闻综合.png" group-title="地方",镇江新闻综合
+http://192.168.3.55:3566/639731783
+#EXTINF:-1 tvg-name="辽宁广播电视台公共频道" tvg-logo="https://logo.catvod.com/辽宁广播电视台公共频道.png" group-title="地方",辽宁广播电视台公共频道
+http://192.168.3.55:3566/962045223
+#EXTINF:-1 tvg-name="辽宁广播电视台生活频道" tvg-logo="https://logo.catvod.com/辽宁广播电视台生活频道.png" group-title="地方",辽宁广播电视台生活频道
+http://192.168.3.55:3566/962045226
+#EXTINF:-1 tvg-name="辽宁广播电视台影视剧频道" tvg-logo="https://logo.catvod.com/辽宁广播电视台影视剧频道.png" group-title="地方",辽宁广播电视台影视剧频道
+http://192.168.3.55:3566/962067517
+#EXTINF:-1 tvg-name="宁夏广播电视台文旅频道" tvg-logo="https://logo.catvod.com/宁夏广播电视台文旅频道.png" group-title="地方",宁夏广播电视台文旅频道
+http://192.168.3.55:3566/962067523
+#EXTINF:-1 tvg-name="宁夏广播电视台经济频道" tvg-logo="https://logo.catvod.com/宁夏广播电视台经济频道.png" group-title="地方",宁夏广播电视台经济频道
+http://192.168.3.55:3566/962067520
+#EXTINF:-1 tvg-name="新动力量创一流" tvg-logo="https://logo.catvod.com/新动力量创一流.png" group-title="纪实",新动力量创一流
+http://192.168.3.55:3566/713589837
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://logo.catvod.com/中华特产.png" group-title="纪实",中华特产
+http://192.168.3.55:3566/959986618
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://logo.catvod.com/环球旅游.png" group-title="纪实",环球旅游
+http://192.168.3.55:3566/958475356
+#EXTINF:-1 tvg-name="茶高清" tvg-logo="https://logo.catvod.com/茶高清.png" group-title="纪实",茶高清
+http://192.168.2.88:8888/udp/239.253.244.143:8000
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://logo.catvod.com/茶.png" group-title="纪实",茶
+http://192.168.3.55:3566/961930369
+#EXTINF:-1 tvg-name="湖南茶高清" tvg-logo="https://logo.catvod.com/湖南茶高清.png" group-title="纪实",湖南茶高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 tvg-name="上海纪实人文高清" tvg-logo="https://logo.catvod.com/上海纪实人文高清.png" group-title="纪实",上海纪实人文高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://logo.catvod.com/老故事.png" group-title="纪实",老故事
+http://192.168.3.55:3566/884121956
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://logo.catvod.com/老故事.png" group-title="纪实",老故事
+http://192.168.2.88:8888/udp/239.253.244.164:8000
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://logo.catvod.com/发现之旅.png" group-title="纪实",发现之旅
+http://192.168.3.55:3566/624878970
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://logo.catvod.com/发现之旅.png" group-title="纪实",发现之旅
+http://192.168.2.88:8888/udp/239.253.244.162:8000
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://logo.catvod.com/NewTV爱情喜剧.png" group-title="✨NewTV",NewTV爱情喜剧
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://logo.catvod.com/NewTV超级电视剧.png" group-title="✨NewTV",NewTV超级电视剧
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://logo.catvod.com/NewTV超级电影.png" group-title="✨NewTV",NewTV超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://logo.catvod.com/NewTV超级体育.png" group-title="✨NewTV",NewTV超级体育
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://logo.catvod.com/NewTV超级综艺.png" group-title="✨NewTV",NewTV超级综艺
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://logo.catvod.com/NewTV潮妈辣婆.png" group-title="✨NewTV",NewTV潮妈辣婆
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://logo.catvod.com/NewTV东北热剧.png" group-title="✨NewTV",NewTV东北热剧
+http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://logo.catvod.com/NewTV动作电影.png" group-title="✨NewTV",NewTV动作电影
+http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://logo.catvod.com/NewTV古装剧场.png" group-title="✨NewTV",NewTV古装剧场
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://logo.catvod.com/NewTV家庭剧场.png" group-title="✨NewTV",NewTV家庭剧场
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://logo.catvod.com/NewTV家庭剧场.png" group-title="✨NewTV",NewTV家庭剧场
+http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://logo.catvod.com/NewTV金牌综艺.png" group-title="✨NewTV",NewTV金牌综艺
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://logo.catvod.com/NewTV惊悚悬疑.png" group-title="✨NewTV",NewTV惊悚悬疑
+http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://logo.catvod.com/NewTV精品大剧.png" group-title="✨NewTV",NewTV精品大剧
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://logo.catvod.com/NewTV精品纪录.png" group-title="✨NewTV",NewTV精品纪录
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://logo.catvod.com/NewTV精品体育.png" group-title="✨NewTV",NewTV精品体育
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://logo.catvod.com/NewTV军旅剧场.png" group-title="✨NewTV",NewTV军旅剧场
+http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://logo.catvod.com/NewTV军事评论.png" group-title="✨NewTV",NewTV军事评论
+http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://logo.catvod.com/NewTV明星大片.png" group-title="✨NewTV",NewTV明星大片
+http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://logo.catvod.com/NewTV农业致富.png" group-title="✨NewTV",NewTV农业致富
+http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://logo.catvod.com/NewTV武搏世界.png" group-title="✨NewTV",NewTV武搏世界
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://logo.catvod.com/NewTV炫舞未来.png" group-title="✨NewTV",NewTV炫舞未来
+http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://logo.catvod.com/NewTV怡伴健康.png" group-title="✨NewTV",NewTV怡伴健康
+http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://logo.catvod.com/NewTV中国功夫.png" group-title="✨NewTV",NewTV中国功夫
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道01高清" tvg-logo="https://logo.catvod.com/熊猫频道01高清.png" group-title="熊猫",熊猫频道01高清
+http://192.168.3.55:3566/609158151
+#EXTINF:-1 tvg-name="熊猫频道1" tvg-logo="https://logo.catvod.com/熊猫频道1.png" group-title="熊猫",熊猫频道1
+http://192.168.3.55:3566/608933610
+#EXTINF:-1 tvg-name="熊猫频道2" tvg-logo="https://logo.catvod.com/熊猫频道2.png" group-title="熊猫",熊猫频道2
+http://192.168.3.55:3566/608933640
+#EXTINF:-1 tvg-name="熊猫频道3" tvg-logo="https://logo.catvod.com/熊猫频道3.png" group-title="熊猫",熊猫频道3
+http://192.168.3.55:3566/608934619
+#EXTINF:-1 tvg-name="熊猫频道4" tvg-logo="https://logo.catvod.com/熊猫频道4.png" group-title="熊猫",熊猫频道4
+http://192.168.3.55:3566/608934721
+#EXTINF:-1 tvg-name="熊猫频道5" tvg-logo="https://logo.catvod.com/熊猫频道5.png" group-title="熊猫",熊猫频道5
+http://192.168.3.55:3566/608935104
+#EXTINF:-1 tvg-name="熊猫频道6" tvg-logo="https://logo.catvod.com/熊猫频道6.png" group-title="熊猫",熊猫频道6
+http://192.168.3.55:3566/608935797
+#EXTINF:-1 tvg-name="熊猫频道7" tvg-logo="https://logo.catvod.com/熊猫频道7.png" group-title="熊猫",熊猫频道7
+http://192.168.3.55:3566/609169286
+#EXTINF:-1 tvg-name="熊猫频道8" tvg-logo="https://logo.catvod.com/熊猫频道8.png" group-title="熊猫",熊猫频道8
+http://192.168.3.55:3566/609169287
+#EXTINF:-1 tvg-name="熊猫频道9" tvg-logo="https://logo.catvod.com/熊猫频道9.png" group-title="熊猫",熊猫频道9
+http://192.168.3.55:3566/609169226
+#EXTINF:-1 tvg-name="熊猫频道10" tvg-logo="https://logo.catvod.com/熊猫频道10.png" group-title="熊猫",熊猫频道10
+http://192.168.3.55:3566/609169285
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://logo.catvod.com/中国交通.png" group-title="未分组",中国交通
+http://192.168.2.88:8888/udp/239.253.244.177:8000
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://logo.catvod.com/中国交通.png" group-title="未分组",中国交通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://logo.catvod.com/生态环境.png" group-title="未分组",生态环境
+http://192.168.2.88:8888/udp/239.253.244.119:8000
+#EXTINF:-1 tvg-name="金鹰纪实高清" tvg-logo="https://logo.catvod.com/金鹰纪实高清.png" group-title="未分组",金鹰纪实高清
+http://192.168.2.88:8888/udp/239.253.244.103:8000
+#EXTINF:-1 tvg-name="金鹰纪实高清" tvg-logo="https://logo.catvod.com/金鹰纪实高清.png" group-title="未分组",金鹰纪实高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
+#EXTINF:-1 tvg-name="湖南快乐垂钓高清" tvg-logo="https://logo.catvod.com/湖南快乐垂钓高清.png" group-title="未分组",湖南快乐垂钓高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
+#EXTINF:-1 tvg-name="生活时尚高清" tvg-logo="https://logo.catvod.com/生活时尚高清.png" group-title="未分组",生活时尚高清
+http://192.168.2.88:8888/udp/239.253.244.99:8000
+#EXTINF:-1 tvg-name="乐游高清" tvg-logo="https://logo.catvod.com/乐游高清.png" group-title="未分组",乐游高清
+http://192.168.2.88:8888/udp/239.253.244.97:8000
+#EXTINF:-1 tvg-name="法治天地高清" tvg-logo="https://logo.catvod.com/法治天地高清.png" group-title="未分组",法治天地高清
+http://192.168.2.88:8888/udp/239.253.244.96:8000
+#EXTINF:-1 tvg-name="游戏风云高清" tvg-logo="https://logo.catvod.com/游戏风云高清.png" group-title="未分组",游戏风云高清
+http://192.168.2.88:8888/udp/239.253.244.95:8000
+#EXTINF:-1 tvg-name="东方财经高清" tvg-logo="https://logo.catvod.com/东方财经高清.png" group-title="未分组",东方财经高清
+http://192.168.2.88:8888/udp/239.253.244.94:8000
+#EXTINF:-1 tvg-name="梨园高清" tvg-logo="https://logo.catvod.com/梨园高清.png" group-title="未分组",梨园高清
+http://192.168.2.88:8888/udp/239.253.244.139:8000
+#EXTINF:-1 tvg-name="武术世界高清" tvg-logo="https://logo.catvod.com/武术世界高清.png" group-title="未分组",武术世界高清
+http://192.168.2.88:8888/udp/239.253.244.140:8000
+#EXTINF:-1 tvg-name="文物宝库高清" tvg-logo="https://logo.catvod.com/文物宝库高清.png" group-title="未分组",文物宝库高清
+http://192.168.2.88:8888/udp/239.253.244.141:8000
+#EXTINF:-1 tvg-name="快乐垂钓高清" tvg-logo="https://logo.catvod.com/快乐垂钓高清.png" group-title="未分组",快乐垂钓高清
+http://192.168.2.88:8888/udp/239.253.244.144:8000
+#EXTINF:-1 tvg-name="书画标清" tvg-logo="https://logo.catvod.com/书画标清.png" group-title="未分组",书画标清
+http://192.168.2.88:8888/udp/239.253.244.146:8000
+#EXTINF:-1 tvg-name="家庭理财标清" tvg-logo="https://logo.catvod.com/家庭理财标清.png" group-title="未分组",家庭理财标清
+http://192.168.2.88:8888/udp/239.253.244.148:8000
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://logo.catvod.com/音乐现场.png" group-title="未分组",音乐现场
+http://192.168.2.88:8888/udp/239.253.244.202:8000
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://logo.catvod.com/军旅剧场.png" group-title="未分组",军旅剧场
+http://192.168.2.88:8888/udp/239.253.244.203:8000
+#EXTINF:-1 tvg-name="足球" tvg-logo="https://logo.catvod.com/足球.png" group-title="未分组",足球
+http://192.168.2.88:8888/udp/239.253.244.204:8000
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://logo.catvod.com/古装剧场.png" group-title="未分组",古装剧场
+http://192.168.2.88:8888/udp/239.253.244.205:8000
+#EXTINF:-1 tvg-name="军事" tvg-logo="https://logo.catvod.com/军事.png" group-title="未分组",军事
+http://192.168.2.88:8888/udp/239.253.244.207:8000
+#EXTINF:-1 tvg-name="地理" tvg-logo="https://logo.catvod.com/地理.png" group-title="未分组",地理
+http://192.168.2.88:8888/udp/239.253.244.208:8000
+#EXTINF:-1 tvg-name="红色影院" tvg-logo="https://logo.catvod.com/红色影院.png" group-title="未分组",红色影院
+http://192.168.2.88:8888/udp/239.253.244.209:8000
+#EXTINF:-1 tvg-name="精选" tvg-logo="https://logo.catvod.com/精选.png" group-title="未分组",精选
+http://192.168.2.88:8888/udp/239.253.244.210:8000
+#EXTINF:-1 tvg-name="美人" tvg-logo="https://logo.catvod.com/美人.png" group-title="未分组",美人
+http://192.168.2.88:8888/udp/239.253.244.213:8000
+#EXTINF:-1 tvg-name="鉴赏" tvg-logo="https://logo.catvod.com/鉴赏.png" group-title="未分组",鉴赏
+http://192.168.2.88:8888/udp/239.253.244.214:8000
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://logo.catvod.com/国学.png" group-title="未分组",国学
+http://192.168.2.88:8888/udp/239.253.244.215:8000
+#EXTINF:-1 tvg-name="星影" tvg-logo="https://logo.catvod.com/星影.png" group-title="未分组",星影
+http://192.168.2.88:8888/udp/239.253.244.216:8000
+#EXTINF:-1 tvg-name="早教" tvg-logo="https://logo.catvod.com/早教.png" group-title="未分组",早教
+http://192.168.2.88:8888/udp/239.253.244.217:8000
+#EXTINF:-1 tvg-name="墨宝" tvg-logo="https://logo.catvod.com/墨宝.png" group-title="未分组",墨宝
+http://192.168.2.88:8888/udp/239.253.244.222:8000
+#EXTINF:-1 tvg-name="光影" tvg-logo="https://logo.catvod.com/光影.png" group-title="未分组",光影
+http://192.168.2.88:8888/udp/239.253.244.223:8000
+#EXTINF:-1 tvg-name="戏曲" tvg-logo="https://logo.catvod.com/戏曲.png" group-title="未分组",戏曲
+http://192.168.2.88:8888/udp/239.253.244.224:8000
+#EXTINF:-1 tvg-name="爱生活" tvg-logo="https://logo.catvod.com/爱生活.png" group-title="未分组",爱生活
+http://192.168.2.88:8888/udp/239.253.244.225:8000
+#EXTINF:-1 tvg-name="解密" tvg-logo="https://logo.catvod.com/解密.png" group-title="未分组",解密
+http://192.168.2.88:8888/udp/239.253.244.226:8000
+#EXTINF:-1 tvg-name="武术" tvg-logo="https://logo.catvod.com/武术.png" group-title="未分组",武术
+http://192.168.2.88:8888/udp/239.253.244.227:8000
+#EXTINF:-1 tvg-name="美妆" tvg-logo="https://logo.catvod.com/美妆.png" group-title="未分组",美妆
+http://192.168.2.88:8888/udp/239.253.244.228:8000
+#EXTINF:-1 tvg-name="动画" tvg-logo="https://logo.catvod.com/动画.png" group-title="未分组",动画
+http://192.168.2.88:8888/udp/239.253.244.229:8000
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://logo.catvod.com/财富天下.png" group-title="未分组",财富天下
+http://192.168.2.88:8888/udp/239.253.244.230:8000
+#EXTINF:-1 tvg-name="收视指南" tvg-logo="https://logo.catvod.com/收视指南.png" group-title="未分组",收视指南
+http://192.168.2.88:8888/udp/239.253.244.124:8000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://logo.catvod.com/少儿动画.png" group-title="未分组",少儿动画
+http://192.168.2.88:8888/udp/239.253.244.127:8000
+#EXTINF:-1 tvg-name="相声小品" tvg-logo="https://logo.catvod.com/相声小品.png" group-title="未分组",相声小品
+http://192.168.2.88:8888/udp/239.253.244.136:8000
+#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://logo.catvod.com/魅力时尚.png" group-title="未分组",魅力时尚
+http://192.168.2.88:8888/udp/239.253.244.130:8000
+#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://logo.catvod.com/IPTV野外.png" group-title="未分组",IPTV野外
+http://192.168.2.88:8888/udp/239.253.244.137:8000
+#EXTINF:-1 tvg-name="IPTV法治" tvg-logo="https://logo.catvod.com/IPTV法治.png" group-title="未分组",IPTV法治
+http://192.168.2.88:8888/udp/239.253.244.138:8000
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://logo.catvod.com/爱综艺.png" group-title="未分组",爱综艺
+http://192.168.2.88:8888/udp/239.253.244.129:8000
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://logo.catvod.com/爱体育.png" group-title="未分组",爱体育
+http://192.168.2.88:8888/udp/239.253.244.131:8000
+#EXTINF:-1 tvg-name="山东广播电视台经济广播" tvg-logo="https://logo.catvod.com/山东广播电视台经济广播.png" group-title="未分组",山东广播电视台经济广播
+http://192.168.2.88:8888/udp/239.253.244.166:8000
+#EXTINF:-1 tvg-name="四海钓鱼标清" tvg-logo="https://logo.catvod.com/四海钓鱼标清.png" group-title="未分组",四海钓鱼标清
+http://192.168.2.88:8888/udp/239.253.244.118:8000
+#EXTINF:-1 tvg-name="环球旅游标清" tvg-logo="https://logo.catvod.com/环球旅游标清.png" group-title="未分组",环球旅游标清
+http://192.168.2.88:8888/udp/239.253.244.71:8000
+#EXTINF:-1 tvg-name="优优宝贝标清" tvg-logo="https://logo.catvod.com/优优宝贝标清.png" group-title="未分组",优优宝贝标清
+http://192.168.2.88:8888/udp/239.253.244.72:8000
+#EXTINF:-1 tvg-name="车迷标清" tvg-logo="https://logo.catvod.com/车迷标清.png" group-title="未分组",车迷标清
+http://192.168.2.88:8888/udp/239.253.244.73:8000
+#EXTINF:-1 tvg-name="中华特产标清" tvg-logo="https://logo.catvod.com/中华特产标清.png" group-title="未分组",中华特产标清
+http://192.168.2.88:8888/udp/239.253.244.76:8000
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://logo.catvod.com/北京纪实科教.png" group-title="未分组",北京纪实科教
+http://192.168.2.88:8888/udp/239.253.244.165:8000
+#EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://logo.catvod.com/汽摩频道.png" group-title="未分组",汽摩频道
+http://192.168.2.88:8888/udp/239.253.244.161:8000
+#EXTINF:-1 tvg-name="海洋频道高清" tvg-logo="https://logo.catvod.com/海洋频道高清.png" group-title="未分组",海洋频道高清
+http://192.168.2.88:8888/udp/239.253.244.67:8000
+#EXTINF:-1 tvg-name="河南文物宝库高清" tvg-logo="https://logo.catvod.com/河南文物宝库高清.png" group-title="未分组",河南文物宝库高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
+#EXTINF:-1 tvg-name="河南梨园高清" tvg-logo="https://logo.catvod.com/河南梨园高清.png" group-title="未分组",河南梨园高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 tvg-name="河南武术世界高清" tvg-logo="https://logo.catvod.com/河南武术世界高清.png" group-title="未分组",河南武术世界高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
+#EXTINF:-1 tvg-name="金色学堂高清" tvg-logo="https://logo.catvod.com/金色学堂高清.png" group-title="未分组",金色学堂高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
+#EXTINF:-1 tvg-name="魅力足球高清" tvg-logo="https://logo.catvod.com/魅力足球高清.png" group-title="未分组",魅力足球高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002021/index.m3u8
+#EXTINF:-1 tvg-name="生活时尚高清" tvg-logo="https://logo.catvod.com/生活时尚高清.png" group-title="未分组",生活时尚高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:-1 tvg-name="乐游高清" tvg-logo="https://logo.catvod.com/乐游高清.png" group-title="未分组",乐游高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
+#EXTINF:-1 tvg-name="法治天地高清" tvg-logo="https://logo.catvod.com/法治天地高清.png" group-title="未分组",法治天地高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:-1 tvg-name="游戏风云高清" tvg-logo="https://logo.catvod.com/游戏风云高清.png" group-title="未分组",游戏风云高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
+#EXTINF:-1 tvg-name="东方财经高清" tvg-logo="https://logo.catvod.com/东方财经高清.png" group-title="未分组",东方财经高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
+#EXTINF:-1 tvg-name="汽摩高清" tvg-logo="https://logo.catvod.com/汽摩高清.png" group-title="未分组",汽摩高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
+#EXTINF:-1 tvg-name="海洋频道高清" tvg-logo="https://logo.catvod.com/海洋频道高清.png" group-title="未分组",海洋频道高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
+#EXTINF:-1 tvg-name="劲爆体育高清（试看）" tvg-logo="https://logo.catvod.com/劲爆体育高清（试看）.png" group-title="未分组",劲爆体育高清（试看）
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://logo.catvod.com/财富天下.png" group-title="未分组",财富天下
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://logo.catvod.com/先锋乒羽.png" group-title="未分组",先锋乒羽
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000650/index.m3u8
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://logo.catvod.com/书画.png" group-title="未分组",书画
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://logo.catvod.com/四海钓鱼.png" group-title="未分组",四海钓鱼
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000640/index.m3u8
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://logo.catvod.com/环球旅游.png" group-title="未分组",环球旅游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://logo.catvod.com/优优宝贝.png" group-title="未分组",优优宝贝
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000641/index.m3u8
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://logo.catvod.com/车迷频道.png" group-title="未分组",车迷频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000645/index.m3u8
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://logo.catvod.com/中华特产.png" group-title="未分组",中华特产
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000642/index.m3u8
+#EXTINF:-1 tvg-name="NNM家庭理财" tvg-logo="https://logo.catvod.com/NNM家庭理财.png" group-title="未分组",NNM家庭理财
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000654/index.m3u8
+#EXTINF:-1 tvg-name="NNM新动漫" tvg-logo="https://logo.catvod.com/NNM新动漫.png" group-title="未分组",NNM新动漫
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000659/index.m3u8
+#EXTINF:-1 tvg-name="NNM网络棋牌" tvg-logo="https://logo.catvod.com/NNM网络棋牌.png" group-title="未分组",NNM网络棋牌
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/index.m3u8
+#EXTINF:-1 tvg-name="江苏靓妆" tvg-logo="https://logo.catvod.com/江苏靓妆.png" group-title="未分组",江苏靓妆
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000653/index.m3u8
+#EXTINF:-1 tvg-name="生态环境 3M" tvg-logo="https://logo.catvod.com/生态环境 3M.png" group-title="未分组",生态环境 3M
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000644/index.m3u8
+#EXTINF:-1 tvg-name="和美乡途轮播台" tvg-logo="https://logo.catvod.com/和美乡途轮播台.png" group-title="未分组",和美乡途轮播台
+http://192.168.3.55:3566/713591450
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://logo.catvod.com/最强综艺趴.png" group-title="未分组",最强综艺趴
+http://192.168.3.55:3566/629942228
