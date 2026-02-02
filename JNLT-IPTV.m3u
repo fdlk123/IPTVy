@@ -185,7 +185,7 @@ http://192.168.2.88:8888/udp/239.253.244.27:8000
 http://192.168.2.88:8888/udp/239.253.244.133:8000
 #EXTINF:-1 tvg-name="四川卫视4K超高清" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="4K",四川卫视4K超高清
 http://192.168.2.88:8888/udp/239.253.244.123:8000
-#EXTINF:-1 tvg-name="爱上4K测试体验" tvg-logo="https://logo.catvod.com/爱上4K测试体验.png" group-title="4K",爱上4K测试体验
+#EXTINF:-1 tvg-name="华数4K" tvg-logo="https://logo.catvod.com/华数4K.png" group-title="4K",华数4K
 http://192.168.2.88:8888/udp/239.253.244.102:8000
 #EXTINF:-1 tvg-name="CHC家庭影院高清" tvg-logo="https://logo.catvod.com/CHC家庭影院高清.png" group-title="影视",CHC家庭影院高清
 http://192.168.2.88:8888/udp/239.253.244.152:8000
