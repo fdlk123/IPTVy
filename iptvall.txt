@@ -131,8 +131,8 @@ CCTV17农业农村,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/in
 山东少儿,http://192.168.2.88:8888/udp/239.253.244.25:8000
 山东少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000059/index.m3u8
 山东少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
-山东教育卫视高清,http://192.168.2.88:8888/udp/239.253.244.59:8000
-山东教育卫视高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+山东教育卫视,http://192.168.2.88:8888/udp/239.253.244.59:8000
+山东教育卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 济宁,#genre#
 济宁综合,http://192.168.2.88:8888/udp/239.253.244.254:8000
 济宁生活,http://192.168.2.88:8888/udp/239.253.244.253:8000
@@ -334,6 +334,8 @@ CETV2,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
 CETV4,http://192.168.2.88:8888/udp/239.253.244.108:8000
 CETV4,http://192.168.3.55:3566/923287339
 CETV,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
+山东教育卫视,http://192.168.2.88:8888/udp/239.253.244.59:8000
+山东教育卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 中学生,http://192.168.2.88:8888/udp/239.253.244.163:8000
 中学生,http://192.168.3.55:3566/708869532
 山东教育,http://192.168.3.55:3566/609154353
@@ -353,23 +355,23 @@ CETV,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
 外语,#genre#
 CGTN,http://192.168.3.55:3566/609017205
 CGTN,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
-CGTN 英语,http://192.168.2.88:8888/udp/239.253.244.17:8000
-CGTN 英文纪录,http://192.168.2.88:8888/udp/239.253.244.188:8000
-CGTN 外语纪录,http://192.168.3.55:3566/609006487
-CGTN 纪录高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
+CGTN英语,http://192.168.2.88:8888/udp/239.253.244.17:8000
+CGTN英文纪录,http://192.168.2.88:8888/udp/239.253.244.188:8000
+CGTN外语纪录,http://192.168.3.55:3566/609006487
+CGTN纪录高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 CGTN高清系列,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
-CGTN 西班牙语,http://192.168.2.88:8888/udp/239.253.244.182:8000
-CGTN 西班牙语,http://192.168.3.55:3566/609006450
-CGTN 西班牙语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
-CGTN 法语,http://192.168.2.88:8888/udp/239.253.244.183:8000
-CGTN 法语,http://192.168.3.55:3566/609006476
-CGTN 法语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
-CGTN 阿拉伯语,http://192.168.2.88:8888/udp/239.253.244.184:8000
-CGTN 阿拉伯语,http://192.168.3.55:3566/609154345
-CGTN 阿拉伯语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
-CGTN 俄语,http://192.168.2.88:8888/udp/239.253.244.185:8000
-CGTN 俄语,http://192.168.3.55:3566/609006446
-CGTN 俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
+CGTN西班牙语,http://192.168.2.88:8888/udp/239.253.244.182:8000
+CGTN西班牙语,http://192.168.3.55:3566/609006450
+CGTN西班牙语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
+CGTN法语,http://192.168.2.88:8888/udp/239.253.244.183:8000
+CGTN法语,http://192.168.3.55:3566/609006476
+CGTN法语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
+CGTN阿拉伯语,http://192.168.2.88:8888/udp/239.253.244.184:8000
+CGTN阿拉伯语,http://192.168.3.55:3566/609154345
+CGTN阿拉伯语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
+CGTN俄语,http://192.168.2.88:8888/udp/239.253.244.185:8000
+CGTN俄语,http://192.168.3.55:3566/609006446
+CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 山东地方,#genre#
 济南新闻综合 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 济南教育高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
