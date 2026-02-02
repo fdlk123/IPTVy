@@ -172,6 +172,8 @@ http://192.168.2.88:8888/udp/239.253.244.59:8000
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 tvg-name="济宁综合" tvg-logo="https://logo.catvod.com/济宁综合.png" group-title="济宁",济宁综合
 http://192.168.2.88:8888/udp/239.253.244.254:8000
+#EXTINF:-1 tvg-name="济宁综合" tvg-logo="https://logo.catvod.com/济宁综合.png" group-title="济宁",济宁综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
 #EXTINF:-1 tvg-name="济宁生活" tvg-logo="https://logo.catvod.com/济宁生活.png" group-title="济宁",济宁生活
 http://192.168.2.88:8888/udp/239.253.244.253:8000
 #EXTINF:-1 tvg-name="济宁公共" tvg-logo="https://logo.catvod.com/济宁公共.png" group-title="济宁",济宁公共
