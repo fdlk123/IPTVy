@@ -1,30 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="常看 山东移动 v26.2.2",CCTV1高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="常看 山东移动 v26.2.2",CCTV2高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="常看 山东移动 v26.2.2",CCTV3高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="常看 山东移动 v26.2.2",CCTV6高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="常看 山东移动 v26.2.2",CCTV8高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="常看 山东移动 v26.2.2",CCTV12高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="常看 山东移动 v26.2.2",CCTV13高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视高清" tvg-logo="https://logo.catvod.com/湖南卫视高清.png" group-title="常看 山东移动 v26.2.2",湖南卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视高清" tvg-logo="https://logo.catvod.com/东方卫视高清.png" group-title="常看 山东移动 v26.2.2",东方卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视高清" tvg-logo="https://logo.catvod.com/北京卫视高清.png" group-title="常看 山东移动 v26.2.2",北京卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视高清" tvg-logo="https://logo.catvod.com/山东卫视高清.png" group-title="常看 山东移动 v26.2.2",山东卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视高清" tvg-logo="https://logo.catvod.com/江苏卫视高清.png" group-title="常看 山东移动 v26.2.2",江苏卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
-#EXTINF:-1 tvg-name="济宁综合高清" tvg-logo="https://logo.catvod.com/济宁综合高清.png" group-title="常看 山东移动 v26.2.2",济宁综合高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
+山东移动 v26.2.2
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2高清
@@ -169,7 +144,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000042/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000027/index.m3u8
 #EXTINF:-1 tvg-name="新疆兵团卫视" tvg-logo="https://logo.catvod.com/新疆兵团卫视.png" group-title="卫视",新疆兵团卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
-#EXTINF:-1 tvg-name="陕西农林卫视 4M" tvg-logo="https://logo.catvod.com/陕西农林卫视 4M.png" group-title="卫视",陕西农林卫视 4M
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://logo.catvod.com/农林卫视.png" group-title="卫视",陕西农林卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
 #EXTINF:-1 tvg-name="海南三沙卫视" tvg-logo="https://logo.catvod.com/海南三沙卫视.png" group-title="卫视",海南三沙卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
