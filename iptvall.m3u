@@ -683,13 +683,13 @@ http://192.168.3.55:3566/609017205
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://logo.catvod.com/CGTN英语.png" group-title="外语",CGTN英语
 http://192.168.2.88:8888/udp/239.253.244.17:8000
-#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="https://logo.catvod.com/CGTN英文纪录.png" group-title="外语",CGTN英文纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://logo.catvod.com/CGTN纪录.png" group-title="外语",CGTN纪录
 http://192.168.2.88:8888/udp/239.253.244.188:8000
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://logo.catvod.com/CGTN纪录.png" group-title="外语",CGTN纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 #EXTINF:-1 tvg-name="CGTN外语纪录" tvg-logo="https://logo.catvod.com/CGTN外语纪录.png" group-title="外语",CGTN外语纪录
 http://192.168.3.55:3566/609006487
-#EXTINF:-1 tvg-name="CGTN纪录高清" tvg-logo="https://logo.catvod.com/CGTN纪录高清.png" group-title="外语",CGTN纪录高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
-#EXTINF:-1 tvg-name="CGTN高清系列" tvg-logo="https://logo.catvod.com/CGTN高清系列.png" group-title="外语",CGTN高清系列
+#EXTINF:-1 tvg-name="CGTN高清系列" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="外语",CGTN高清系列
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://logo.catvod.com/CGTN西班牙语.png" group-title="外语",CGTN西班牙语
 http://192.168.2.88:8888/udp/239.253.244.182:8000
