@@ -1,32 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="常看 联通v25.10.03.622",CCTV1高清
-http://192.168.2.88:8888/udp/239.253.244.77:8000
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="常看 联通v25.10.03.622",CCTV2高清
-http://192.168.2.88:8888/udp/239.253.244.234:8000
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="常看 联通v25.10.03.622",CCTV3高清
-http://192.168.2.88:8888/udp/239.253.244.191:8000
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="常看 联通v25.10.03.622",CCTV6高清
-http://192.168.2.88:8888/udp/239.253.244.193:8000
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="常看 联通v25.10.03.622",CCTV8高清
-http://192.168.2.88:8888/udp/239.253.244.194:8000
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="常看 联通v25.10.03.622",CCTV12高清
-http://192.168.2.88:8888/udp/239.253.244.237:8000
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="常看 联通v25.10.03.622",CCTV13高清
-http://192.168.2.88:8888/udp/239.253.244.14:8000
-#EXTINF:-1 tvg-name="济宁综合" tvg-logo="https://logo.catvod.com/济宁综合.png" group-title="常看 联通v25.10.03.622",济宁综合
-http://192.168.2.88:8888/udp/239.253.244.254:8000
-#EXTINF:-1 tvg-name="山东卫视高清" tvg-logo="https://logo.catvod.com/山东卫视高清.png" group-title="常看 联通v25.10.03.622",山东卫视高清
-http://192.168.2.88:8888/udp/239.253.244.78:8000
-#EXTINF:-1 tvg-name="湖南卫视高清" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="常看 联通v25.10.03.622",湖南卫视高清
-http://192.168.2.88:8888/udp/239.253.244.82:8000
-#EXTINF:-1 tvg-name="浙江卫视高清" tvg-logo="https://logo.catvod.com/浙江卫视高清.png" group-title="常看 联通v25.10.03.622",浙江卫视高清
-http://192.168.2.88:8888/udp/239.253.244.84:8000
-#EXTINF:-1 tvg-name="东方卫视高清" tvg-logo="https://logo.catvod.com/东方卫视高清.png" group-title="常看 联通v25.10.03.622",东方卫视高清
-http://192.168.2.88:8888/udp/239.253.244.86:8000
-#EXTINF:-1 tvg-name="江苏卫视高清" tvg-logo="https://logo.catvod.com/江苏卫视高清.png" group-title="常看 联通v25.10.03.622",江苏卫视高清
-http://192.168.2.88:8888/udp/239.253.244.83:8000
-#EXTINF:-1 tvg-name="北京卫视高清" tvg-logo="https://logo.catvod.com/北京卫视高清.png" group-title="常看 联通v25.10.03.622",北京卫视高清
-http://192.168.2.88:8888/udp/239.253.244.85:8000
+济宁联通v25.10.03.622
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1高清
 http://192.168.2.88:8888/udp/239.253.244.77:8000
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2高清
