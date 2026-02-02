@@ -209,11 +209,11 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000056/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000055/index.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://logo.catvod.com/山东综艺.png" group-title="山东",山东综艺
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000054/index.m3u8
-#EXTINF:-1 tvg-name="济宁综合高清" tvg-logo="https://logo.catvod.com/济宁综合高清.png" group-title="济宁",济宁综合高清
+#EXTINF:-1 tvg-name="济宁综合" tvg-logo="https://logo.catvod.com/济宁综合.png" group-title="济宁",济宁综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
 #EXTINF:-1 tvg-name="济宁公共" tvg-logo="https://logo.catvod.com/济宁公共.png" group-title="济宁",济宁公共
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000241/index.m3u8
-#EXTINF:-1 tvg-name="济宁教育" tvg-logo="https://logo.catvod.com/济宁教育.png" group-title="济宁",济宁教育
+#EXTINF:-1 tvg-name="济宁生活" tvg-logo="https://logo.catvod.com/济宁生活.png" group-title="济宁",济宁生活
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8
 #EXTINF:-1 tvg-name="兖州新闻高清" tvg-logo="https://logo.catvod.com/兖州新闻高清.png" group-title="济宁",兖州新闻高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
