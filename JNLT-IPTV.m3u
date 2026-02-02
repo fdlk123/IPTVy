@@ -233,7 +233,7 @@ http://192.168.2.88:8888/udp/239.253.244.128:8000
 http://192.168.2.88:8888/udp/239.253.244.132:8000
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://logo.catvod.com/CGTN英语.png" group-title="外语",CGTN英语
 http://192.168.2.88:8888/udp/239.253.244.17:8000
-#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="https://logo.catvod.com/CGTN英文纪录.png" group-title="外语",CGTN英文纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://logo.catvod.com/CGTN纪录.png" group-title="外语",CGTN纪录
 http://192.168.2.88:8888/udp/239.253.244.188:8000
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://logo.catvod.com/CGTN西班牙语.png" group-title="外语",CGTN西班牙语
 http://192.168.2.88:8888/udp/239.253.244.182:8000
