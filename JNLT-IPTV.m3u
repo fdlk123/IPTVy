@@ -243,7 +243,7 @@ http://192.168.2.88:8888/udp/239.253.244.183:8000
 http://192.168.2.88:8888/udp/239.253.244.184:8000
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="外语",CGTN俄语
 http://192.168.2.88:8888/udp/239.253.244.185:8000
-#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://logo.catvod.com/中国教育1.png" group-title="教育",中国教育1
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://logo.catvod.com/中国教育.png" group-title="教育",中国教育1
 http://192.168.2.88:8888/udp/239.253.244.110:8000
 #EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://logo.catvod.com/中国教育2.png" group-title="教育",中国教育2
 http://192.168.2.88:8888/udp/239.253.244.107:8000
@@ -275,7 +275,7 @@ http://192.168.2.88:8888/udp/239.253.244.61:8000
 http://192.168.2.88:8888/udp/239.253.244.64:8000
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://logo.catvod.com/哈哈炫动.png" group-title="少儿",哈哈炫动
 http://192.168.2.88:8888/udp/239.253.244.63:8000
-#EXTINF:-1 tvg-name="CCTV少儿" tvg-logo="https://logo.catvod.com/CCTV少儿.png" group-title="少儿",CCTV少儿
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="少儿",CCTV14
 http://192.168.2.88:8888/udp/239.253.244.238:8000
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="少儿",嘉佳卡通
 http://192.168.2.88:8888/udp/239.253.244.65:8000
@@ -307,7 +307,7 @@ http://192.168.2.88:8888/udp/239.253.244.103:8000
 http://192.168.2.88:8888/udp/239.253.244.164:8000
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://logo.catvod.com/生活时尚.png" group-title="未分组",生活时尚
 http://192.168.2.88:8888/udp/239.253.244.99:8000
-#EXTINF:-1 tvg-name="乐游高清" tvg-logo="https://logo.catvod.com/乐游高清.png" group-title="未分组",乐游高清
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://logo.catvod.com/乐游.png" group-title="未分组",乐游
 http://192.168.2.88:8888/udp/239.253.244.97:8000
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://logo.catvod.com/法治天地.png" group-title="未分组",法治天地
 http://192.168.2.88:8888/udp/239.253.244.96:8000
