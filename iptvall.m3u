@@ -547,6 +547,8 @@ http://192.168.2.88:8888/udp/239.253.244.220:8000
 http://192.168.2.88:8888/udp/239.253.244.221:8000
 #EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://logo.catvod.com/热播剧场.png" group-title="影视",热播剧场
 http://192.168.2.88:8888/udp/239.253.244.125:8000
+#EXTINF:-1 tvg-name="光影" tvg-logo="https://logo.catvod.com/华数.png" group-title="影视",光影
+http://192.168.2.88:8888/udp/239.253.244.223:8000
 #EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://logo.catvod.com/经典香港电影.png" group-title="影视",经典香港电影
 http://192.168.3.55:3566/625703337
 #EXTINF:-1 tvg-name="抗战经典影片" tvg-logo="https://logo.catvod.com/抗战经典影片.png" group-title="影视",抗战经典影片
