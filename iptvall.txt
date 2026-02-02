@@ -95,7 +95,7 @@ CCTV17农业农村,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/in
 济宁生活,http://192.168.2.88:8888/udp/239.253.244.253:8000
 济宁公共,http://192.168.2.88:8888/udp/239.253.244.248:8000
 济宁公共,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000241/index.m3u8
-济宁教育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8
+济宁生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8
 济宁高新,http://192.168.2.88:8888/udp/239.253.244.244:8000
 任城1,http://192.168.2.88:8888/udp/239.253.244.242:8000
 任城2,http://192.168.2.88:8888/udp/239.253.244.243:8000
