@@ -231,17 +231,17 @@ http://192.168.2.88:8888/udp/239.253.244.136:8000
 http://192.168.2.88:8888/udp/239.253.244.128:8000
 #EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://logo.catvod.com/爱大剧.png" group-title="影视",爱大剧
 http://192.168.2.88:8888/udp/239.253.244.132:8000
-#EXTINF:-1 tvg-name="CGTN 英语" tvg-logo="https://logo.catvod.com/CGTN 英语.png" group-title="外语",CGTN 英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://logo.catvod.com/CGTN英语.png" group-title="外语",CGTN英语
 http://192.168.2.88:8888/udp/239.253.244.17:8000
-#EXTINF:-1 tvg-name="CGTN 英文纪录" tvg-logo="https://logo.catvod.com/CGTN 英文纪录.png" group-title="外语",CGTN 英文纪录
+#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="https://logo.catvod.com/CGTN英文纪录.png" group-title="外语",CGTN英文纪录
 http://192.168.2.88:8888/udp/239.253.244.188:8000
-#EXTINF:-1 tvg-name="CGTN 西班牙语" tvg-logo="https://logo.catvod.com/CGTN 西班牙语.png" group-title="外语",CGTN 西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://logo.catvod.com/CGTN西班牙语.png" group-title="外语",CGTN西班牙语
 http://192.168.2.88:8888/udp/239.253.244.182:8000
-#EXTINF:-1 tvg-name="CGTN 法语" tvg-logo="https://logo.catvod.com/CGTN 法语.png" group-title="外语",CGTN 法语
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="外语",CGTN法语
 http://192.168.2.88:8888/udp/239.253.244.183:8000
-#EXTINF:-1 tvg-name="CGTN 阿拉伯语" tvg-logo="https://logo.catvod.com/CGTN 阿拉伯语.png" group-title="外语",CGTN 阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://logo.catvod.com/CGTN阿拉伯语.png" group-title="外语",CGTN阿拉伯语
 http://192.168.2.88:8888/udp/239.253.244.184:8000
-#EXTINF:-1 tvg-name="CGTN 俄语" tvg-logo="https://logo.catvod.com/CGTN 俄语.png" group-title="外语",CGTN 俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="外语",CGTN俄语
 http://192.168.2.88:8888/udp/239.253.244.185:8000
 #EXTINF:-1 tvg-name="中国教育1高清" tvg-logo="https://logo.catvod.com/中国教育1高清.png" group-title="教育",中国教育1高清
 http://192.168.2.88:8888/udp/239.253.244.110:8000
