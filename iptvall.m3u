@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-group-title="多源综合v26.1.31",
+多源综合v26.2.3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1综合
 http://192.168.2.88:8888/udp/239.253.244.77:8000
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1综合
@@ -50,11 +50,11 @@ http://192.168.2.88:8888/udp/239.253.244.193:8000
 http://192.168.3.55:3566/624878396
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6电影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7高清
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7国防军事
 http://192.168.2.88:8888/udp/239.253.244.235:8000
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7国防军事
 http://192.168.3.55:3566/673168121
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7高清
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7国防军事
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8电视剧
 http://192.168.2.88:8888/udp/239.253.244.194:8000
@@ -115,9 +115,9 @@ http://192.168.3.55:3566/959986621
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东",山东卫视
 http://192.168.2.88:8888/udp/239.253.244.78:8000
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东",山东卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东",山东卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://logo.catvod.com/山东齐鲁.png" group-title="山东",山东齐鲁
 http://192.168.2.88:8888/udp/239.253.244.18:8000
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://logo.catvod.com/山东齐鲁.png" group-title="山东",山东齐鲁
@@ -428,8 +428,6 @@ http://192.168.2.88:8888/udp/239.253.244.152:8000
 http://192.168.3.55:3566/644368373
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://logo.catvod.com/CHC高清电影.png" group-title="影视",CHC高清电影
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="影视",CHC动作电影
 http://192.168.2.88:8888/udp/239.253.244.153:8000
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="影视",CHC动作电影
@@ -440,6 +438,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 http://192.168.2.88:8888/udp/239.253.244.154:8000
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="影视",CHC影迷电影
 http://192.168.3.55:3566/952383261
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="影视",CHC影迷电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://logo.catvod.com/谍战剧场.png" group-title="影视",谍战剧场
 http://192.168.2.88:8888/udp/239.253.244.135:8000
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="影视",都市剧场
