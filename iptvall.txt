@@ -1,4 +1,4 @@
-多源综合v26.1.31
+多源综合v26.2.3
 央视,#genre#
 CCTV1综合,http://192.168.2.88:8888/udp/239.253.244.77:8000
 CCTV1综合,http://192.168.3.55:3566/608807420
@@ -27,9 +27,9 @@ CCTV5+体育赛事,,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/i
 CCTV6电影,http://192.168.2.88:8888/udp/239.253.244.193:8000
 CCTV6电影,http://192.168.3.55:3566/624878396
 CCTV6电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
-CCTV7高清,http://192.168.2.88:8888/udp/239.253.244.235:8000
+CCTV7国防军事,http://192.168.2.88:8888/udp/239.253.244.235:8000
 CCTV7国防军事,http://192.168.3.55:3566/673168121
-CCTV7高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
+CCTV7国防军事,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 CCTV8电视剧,http://192.168.2.88:8888/udp/239.253.244.194:8000
 CCTV8电视剧,http://192.168.3.55:3566/624878356
 CCTV8电视剧,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
@@ -60,9 +60,8 @@ CCTV17农业农村,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/in
 中国天气,http://192.168.3.55:3566/959986621
 山东,#genre#
 山东卫视,http://192.168.2.88:8888/udp/239.253.244.78:8000
-山东卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
 山东卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
-山东卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001099/index.m3u8
+山东卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
 山东齐鲁,http://192.168.2.88:8888/udp/239.253.244.18:8000
 山东齐鲁,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
 山东齐鲁,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
@@ -337,7 +336,7 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 临沂综合高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
 临沭1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001094/index.m3u8
 兰陵综合 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
-单县综合高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8
+单县综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8
 商河综合 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
 夏津公共高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001070/index.m3u8
 夏津综合高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001069/index.m3u8
@@ -356,6 +355,7 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 武城新闻综合高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
 武城综艺影视高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001060/index.m3u8
 沂水高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001098/index.m3u8
+沂水生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001099/index.m3u8
 泰安公共 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
 泰安综合 5M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
 济阳综合 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001030/index.m3u8
