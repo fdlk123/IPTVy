@@ -210,7 +210,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 #EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://logo.catvod.com/SiTV都市剧场.png" group-title="剧场",SiTV都市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000630/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场高清" tvg-logo="https://logo.catvod.com/都市剧场高清.png" group-title="剧场",都市剧场高清
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="剧场",都市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
 #EXTINF:-1 tvg-name="济南新闻综合 7M1080" tvg-logo="https://logo.catvod.com/济南新闻综合 7M1080.png" group-title="地方",济南新闻综合 7M1080
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
@@ -394,7 +394,7 @@ http://124.129.235.34:9901/tsfile/live/1016_1.m3u8
 https://live.rzw.com.cn/kzpd/playlist.m3u8?_upt=844de8ae1714195954
 #EXTINF:-1 tvg-name="山东居家购物" tvg-logo="https://logo.catvod.com/山东居家购物.png" group-title="地方",山东居家购物
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://logo.catvod.com/湖南金鹰卡通.png" group-title="少儿",湖南金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="少儿",金鹰卡通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场高清" tvg-logo="https://logo.catvod.com/动漫秀场高清.png" group-title="少儿",动漫秀场高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
@@ -406,13 +406,13 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000048/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://logo.catvod.com/江苏优漫卡通.png" group-title="少儿",江苏优漫卡通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
-#EXTINF:-1 tvg-name="NNM新动漫" tvg-logo="https://logo.catvod.com/NNM新动漫.png" group-title="少儿",NNM新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://logo.catvod.com/新动漫.png" group-title="少儿",新动漫
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000659/index.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://logo.catvod.com/山东教育卫视.png" group-title="教育",山东教育卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 tvg-name="中国教育" tvg-logo="https://logo.catvod.com/中国教育.png" group-title="教育",中国教育
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
-#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://logo.catvod.com/中国教育2.png" group-title="",中国教育2
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://logo.catvod.com/中国教育2.png" group-title="教育",中国教育2
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
 #EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://logo.catvod.com/中国教育4.png" group-title="教育",中国教育4
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
