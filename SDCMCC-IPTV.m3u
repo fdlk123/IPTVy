@@ -396,7 +396,7 @@ https://live.rzw.com.cn/kzpd/playlist.m3u8?_upt=844de8ae1714195954
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="少儿",金鹰卡通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
-#EXTINF:-1 tvg-name="动漫秀场高清" tvg-logo="https://logo.catvod.com/动漫秀场高清.png" group-title="少儿",动漫秀场高清
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://logo.catvod.com/动漫秀场.png" group-title="少儿",动漫秀场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
 #EXTINF:-1 tvg-name="上海哈哈炫动" tvg-logo="https://logo.catvod.com/上海哈哈炫动.png" group-title="少儿",上海哈哈炫动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
