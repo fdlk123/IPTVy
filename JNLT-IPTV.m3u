@@ -354,4 +354,4 @@ http://192.168.31.88:8888/udp/239.253.244.161:8000
 #EXTINF:-1 tvg-name="海洋频道" tvg-logo="https://logo.catvod.com/海洋频道.png" group-title="未分组",海洋频道
 http://192.168.31.88:8888/udp/239.253.244.67:8000
 
-济宁联通v25.10.03.622
+#EXTINF:-1 tvg-name="济宁联通v25.10.03.622" tvg-logo="https://logo.catvod.com/济宁联通v25.10.03.622" group-title="未分组",济宁联通v25.10.03.622
